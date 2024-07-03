@@ -4,10 +4,10 @@
 # Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
 
 msgid "user.login.registrationComplete.manageSubmissions"
-msgstr "Zeige Konferenzbeitragseinreichungen"
+msgstr "Zeige Konferenzbandbeitragseinreichungen"
 
 msgid "user.login.registrationComplete.newSubmission"
-msgstr "Neuen Konferenzbeitrag einreichen"
+msgstr "Neuen Konferenzbandbeitrag einreichen"
 
 msgid "user.profile.form.openAccessNotifications"
 msgstr "E-Mail-Benachrichtigung: Freien Zugang zu Konferenzband Ausgaben"

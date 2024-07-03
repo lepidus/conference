@@ -11,11 +11,11 @@ msgstr ""
 "PO-Revision-Date: 2019-11-19T11:05:16+00:00\n"
 "Language: \n"
 
-msgid "plugins.generic.conference.metadata.conferenceDateBegin.title"
-msgstr "Konferenz Metadaten"
+msgid "plugins.generic.conference.metadata.conferenceDate.title"
+msgstr "Daten der Konferenz"
 
 msgid "plugins.generic.conference.metadata.conferenceDateBegin"
-msgstr "Startdatum"
+msgstr "Anfangsdatum"
 
 msgid "plugins.generic.conference.metadata.conferenceDateEnd"
 msgstr "Enddatum"
@@ -36,4 +36,11 @@ msgid "plugins.generic.conference.displayName"
 msgstr "Konferenzveröffentlichung"
 
 msgid "plugins.generic.conference.description"
-msgstr "Ermöglicht Konferenzen in OJS abzubilden. Konferenzspezifische Metadaten werden nach aktivierung automatisch hinzugefügt und das Frontend und Backend wird angepasst um Konferenzveröffentlichungen darzustellen."
+msgstr "Ermöglicht Konferenzbandreihen  in OJS abzubilden. Konferenzspezifische Metadaten werden nach Aktivierung automatisch hinzugefügt, und das Frontend und Backend wird angepasst um Konferenzveröffentlichungen darzustellen."
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.title"
+msgstr "Onlinekonferenz"
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.checkBox"
+msgstr "Das ist eine Online-Konferenz"
+~

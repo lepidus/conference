@@ -2,8 +2,8 @@
 # Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
 
 msgid "reviewer.step1.viewAllDetails"
-msgstr "Alle Details der Konferenzbeitragseinreichung ansehen"
+msgstr "Alle Details der Konferenzbandbeitragseinreichung ansehen"
 
 msgid "reviewer.submission.reviewDescription"
-msgstr "Geben Sie ihr Gutachten für die Konferenzbeitragseinreichung in das untenstehende Formular ein."
+msgstr "Geben Sie ihr Gutachten für die Konferenzbandbeitragseinreichung in das untenstehende Formular ein."
 

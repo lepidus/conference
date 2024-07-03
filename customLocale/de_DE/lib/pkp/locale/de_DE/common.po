@@ -3,16 +3,16 @@
 # Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
 
 msgid "navigation.submissions"
-msgstr "Konferenzbeitragseinreichungen"
+msgstr "Konferenzbandbeitragseinreichungen"
 
 msgid "notification.removedSubmission"
-msgstr "Konferenzbeitragseinreichung entfernt"
+msgstr "Konferenzbandbeitragseinreichung entfernt"
 
 msgid "notification.savedSubmissionMetadata"
-msgstr "Metadaten für Konferenzbeitragseinreichung gespeichert."
+msgstr "Metadaten für Konferenzbandbeitragseinreichung gespeichert."
 
 msgid "search.cli.rebuildIndex.result"
-msgstr "{$numIndexed} Konferenzbeitragseinreichungen indexiert."
+msgstr "{$numIndexed} Konferenzbandbeitragseinreichungen indexiert."
 
 msgid "user.authorization.invalidSubmission"
-msgstr "Ungültige Konferenzbeitragseinreichung."
+msgstr "Ungültige Konferenzbandbeitragseinreichung."

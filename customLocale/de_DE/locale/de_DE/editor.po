@@ -5,7 +5,7 @@ msgid "editor.submissionQueue"
 msgstr "Liste der Konferenzbeiträge"
 
 msgid "editor.submissionArchive"
-msgstr "Konferenzbeitragsarchiv"
+msgstr "Konferenzbandbeitragsarchiv"
 
 msgid "editor.publishedIssues"
 msgstr "Veröffentlichte Konferenzbände"
@@ -65,7 +65,7 @@ msgid "editor.issues.confirmSetCurrentIssue"
 msgstr "Sind Sie sicher, dass Sie diesen Konferenzband als aktuellen Konferenzband festlegen möchten?"
 
 msgid "editor.issues.publicArticleIdExists"
-msgstr "Die öffentliche Kennzeichnung für den folgenden Konferenzbeitrag konnte nicht gespeichert werden:"
+msgstr "Die öffentliche Kennzeichnung für den folgenden Konferenzbandbeitrag konnte nicht gespeichert werden:"
 
 msgid "editor.issues.noLiveIssues"
 msgstr "Keine aktueller Konferenzband"
@@ -80,7 +80,7 @@ msgid "editor.issues.viewingGalley"
 msgstr "Konferenzbandfahne ansehen"
 
 msgid "editor.issues.issueGalleysDescription"
-msgstr "Fahnen mit dem Inhalt der gesamten Konferenzband veröffentlichen."
+msgstr "Fahnen mit dem Inhalt des gesamten Konferenzbands veröffentlichen."
 
 msgid "editor.issues.noneIssueGalleys"
 msgstr "Es wurden keine Konferenzbandfahnen veröffentlicht."
@@ -101,7 +101,7 @@ msgid "editor.issues.confirmDeleteGalley"
 msgstr "Sind Sie sicher, dass Sie diese Konferenzbandfahne löschen möchten?"
 
 msgid "editor.navigation.futureIssues"
-msgstr "Zukünftiger Konferenzband"
+msgstr "Zukünftige Konferenzbände"
 
 msgid "grid.action.publish"
 msgstr "Konferenzband veröffentlichen"
@@ -113,10 +113,10 @@ msgid "grid.action.addIssueGalley"
 msgstr "Konferenzbandfahne anlegen"
 
 msgid "grid.action.setCurrentIssue"
-msgstr "Aktuelle Konferenzband festlegen"
+msgstr "Aktuellen Konferenzband festlegen"
 
 msgid "editor.navigation.issueArchive"
-msgstr "Früherer Konferenzband"
+msgstr "Frühere Konferenzbände"
 
 msgid "editor.submissions.noSubmissions"
 msgstr "Keine Konferenzbeiträge"
@@ -125,7 +125,7 @@ msgid "issues.submissions.issueIds"
 msgstr "Zugeordnet zu Konferenzband"
 
 msgid "grid.action.removeArticle"
-msgstr "Konferenzbeitrag aus dem Konferenzband entfernen"
+msgstr "Konferenzbandbeitrag aus dem Konferenzband entfernen"
 
 msgid "editor.issues.editIssueGalley"
 msgstr "Konferenzbandfahne bearbeiten"

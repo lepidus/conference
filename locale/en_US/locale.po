@@ -24,7 +24,7 @@ msgid "plugins.generic.conference.displayName"
 msgstr "Conference publishing"
 
 msgid "plugins.generic.conference.description"
-msgstr "Enables conferences to be hosted in OJS. When enabled, conference-related metadata gets added automatically and the backend and frontend will be changed to reflect conference  publication software"
+msgstr "Enables Conference Proceedings to be hosted in OJS. When enabled, conference-related metadata gets added automatically and the backend and frontend will be changed to reflect conference proceedings contributions."
 
 msgid "plugins.generic.conference.metadata.conferenceOnline.title"
 msgstr "Online Conference"

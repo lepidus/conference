@@ -43,3 +43,8 @@ msgstr "Konferenzbandreihe-Redakteur/in"
 msgid "default.groups.plural.editor"
 msgstr "Konferenzbandreihe-Redakteur/innen"
 
+msgid "default.groups.name.externalReviewer"
+msgstr "externe/r Gutachter/in"
+
+msgid "default.groups.name.reader"
+msgstr "Leser/in"

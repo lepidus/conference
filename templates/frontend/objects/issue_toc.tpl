@@ -106,15 +106,17 @@
 		</div>
 	{/if}
 
-	{if $issue->getData('conferencePlaceAddress') || $issue->getData('conferencePlaceCity') || $issue->getData('conferencePlaceCounty')}
+	{if $issue->getData('conferencePlaceStreet') || $issue->getData('conferencePlaceCity') || $issue->getData('conferencePlaceCounty')}
 		<div class="published">
 			<span class="label">
 				{translate key="plugins.generic.conference.metadata.conferencePlace.title"}:
 			</span>
 			<span class="value">
-				{$issue->getData('conferencePlaceStreet')}
-				{$issue->getData('conferencePlaceCity')}
-				{$issue->getData('conferencePlaceCountry')}
+				{assign var="addressParts" value=[]}
+				{assign var="addressParts" value=$addressParts|@array_merge:[$issue->getData('conferencePlaceStreet')]|@array_filter}
+				{assign var="addressParts" value=$addressParts|@array_merge:[$issue->getData('conferencePlaceCity')]|@array_filter}
+				{assign var="addressParts" value=$addressParts|@array_merge:[$issue->getData('conferencePlaceCountry')]|@array_filter}
+				{implode(', ', $addressParts)}
 			</span>
 		</div>
 	{/if}

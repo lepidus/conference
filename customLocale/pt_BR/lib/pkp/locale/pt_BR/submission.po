@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "submission.submit.contactConsentDescription"
+msgstr "Sim, gostaria de ser contatado sobre esta Submissão de Trabalho."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Requisitos de Submissão de Trabalho"
+
+msgid "submission.submit.submissionComplete"
+msgstr "Submissão de Trabalho concluída"
+
+msgid "submission.submit.whatNext.review"
+msgstr "Revisar esta Submissão de Trabalho"
+
+msgid "submission.submit.whatNext.create"
+msgstr "Criar uma nova Submissão de Trabalho"
+
+msgid "metadata.property.displayName.article-title"
+msgstr "Título do Trabalho/Paper"
+
+msgid "metadata.property.validationMessage.article-title"
+msgstr "Por favor, insira um título de trabalho/paper válido."
+
+msgid "metadata.property.displayName.issue"
+msgstr "Volume dos Anais"
+
+msgid "metadata.property.validationMessage.issue"
+msgstr "Por favor, insira um Volume dos Anais válido."
+
+msgid "common.queue.long.submissionsArchived"
+msgstr "Submissões de Trabalhos Arquivadas"
+
+msgid "submission.backToSubmissionEditing"
+msgstr "Voltar para Edição de Submissão de Trabalho"
+
+msgid "submission.email.confirmClearLog"
+msgstr "Tem certeza de que deseja limpar o registro de e-mail para esta Submissão de Trabalho?"
+
+msgid "submission.event.confirmClearLog"
+msgstr "Tem certeza de que deseja limpar o registro de eventos para esta Submissão de Trabalho?"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Submissão de Trabalho inicial concluída."
+
+msgid "submission.event.fileRevised"
+msgstr "A revisão \"{$name}\" foi enviada para o arquivo {$submissionFileId}."
+
+msgid "submission.event.general.metadataUpdated"
+msgstr "Metadados da Submissão de Trabalho atualizados"
+
+msgid "submission.event.general.suppFileUpdated"
+msgstr "Arquivo de Submissão de Trabalho atualizado"
+
+msgid "submission.event.reviewer.reviewerAssigned"
+msgstr "Avaliador designado para Submissão de Trabalho"
+
+msgid "submission.event.reviewer.reviewerUnassigned"
+msgstr "Avaliador desdesignado da Submissão de Trabalho"
+
+msgid "submission.history.submissionNotes"
+msgstr "Notas de Submissão de Trabalho"
+
+msgid "submission.informationCenter.submissionInfo"
+msgstr "Informações da Submissão de Trabalho"
+
+msgid "submission.layout.viewingGalley"
+msgstr "Visualizando Prova de Submissão de Trabalho"
+
+msgid "submission.metadata"
+msgstr "Metadados da Submissão de Trabalho"
+
+msgid "submission.notes.backToSubmissionNotes"
+msgstr "Voltar Para Notas de Submissão de Trabalho"
+
+msgid "submission.notes.confirmDeleteAll"
+msgstr "Remover Todas as Notas de Submissão de Trabalho?"
+
+msgid "submission.notes.confirmDelete"
+msgstr "Remover Esta Nota de Submissão de Trabalho?"
+
+msgid "submission.notes.noSubmissionNotes"
+msgstr "Nenhuma Nota de Submissão de Trabalho"
+
+msgid "submission.notes"
+msgstr "Notas de Submissão de Trabalho"
+
+msgid "submissions.noSubmissions"
+msgstr "Nenhuma Submissão de Trabalho"
+
+msgid "submissions.queuedUnassigned"
+msgstr "Nenhum editor foi designado para esta Submissão de Trabalho."
+
+msgid "submission.submission"
+msgstr "Submissão de Trabalho"
+
+msgid "submission.submissionTitle"
+msgstr "Título da Submissão de Trabalho:"
+
+msgid "submission.submissionHistory"
+msgstr "Histórico de Submissão de Trabalho"
+
+msgid "submission.submissionManuscript"
+msgstr "Manuscrito de Submissão de Trabalho"
+
+msgid "submission.submissionReview"
+msgstr "Avaliação de Submissão de Trabalho"
+
+msgid "submission.submit.finishSubmission"
+msgstr "Finalizar Submissão de Trabalho"
+
+msgid "submission.submit.submissionLocale"
+msgstr "Idioma da Submissão de Trabalho"
+
+msgid "submission.submit.submissionFiles"
+msgstr "Arquivos de Submissão de Trabalho"
+
+msgid "submission.submit.uploadSubmissionFile"
+msgstr "Enviar Arquivo de Submissão de Trabalho"
+
+msgid "submission.upload.libraryCategory"
+msgstr "Categoria de Documento de Submissão de Trabalho"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "A Submissão de Trabalho deve ser reenviada para outra rodada de avaliação."
+
+msgid "editor.submission.roundStatus.submissionResubmitted"
+msgstr "A Submissão de Trabalho foi reenviada para outra rodada de avaliação."
+
+msgid "editor.submission.roundStatus.accepted"
+msgstr "Submissão de Trabalho aceita."
+
+msgid "editor.submission.roundStatus.declined"
+msgstr "Submissão de Trabalho recusada."
+
+msgid "editor.submission.decision.accept"
+msgstr "Aceitar Submissão de Trabalho"
+
+msgid "editor.submission.decision.decline"
+msgstr "Recusar Submissão de Trabalho"
+
+msgid "editor.submission.recommendation.description"
+msgstr "Recomendar uma decisão editorial para esta Submissão de Trabalho."
+
+msgid "submission.overview"
+msgstr "Visão Geral da Submissão de Trabalho"
+
+msgid "submission.documents"
+msgstr "Documentos de Submissão de Trabalho"
+
+msgid "notification.type.editorAssign"
+msgstr "Você foi designado como editor para a Submissão de Trabalho \"{$title}\"."
+
+msgid "notification.type.editorDecisionAccept"
+msgstr "Submissão de Trabalho aceita."
+
+msgid "notification.type.editorDecisionDecline"
+msgstr "Submissão de Trabalho recusada."
+
+msgid "notification.type.editorDecisionRevertDecline"
+msgstr "Submissão de Trabalho recusada reativada."
+
+msgid "notification.type.submissionNewVersion"
+msgstr "Uma nova versão de uma Submissão de Trabalho foi criada"
+
+msgid "notification.type.revertDecline"
+msgstr "A decisão de recusar esta Submissão de Trabalho foi revertida."
+
+msgid "grid.action.itemWorkflow"
+msgstr "Ir para o fluxo de trabalho desta Submissão de Trabalho"
+
+msgid "submission.attachPermissions"
+msgstr "Anexar as seguintes permissões à Submissão de Trabalho:"
+
+msgid "submission.list.empty"
+msgstr "Nenhuma Submissão de Trabalho encontrada."
+
+msgid "submission.list.confirmDelete"
+msgstr "Excluir Submissão de Trabalho?"
+
+msgid "submission.list.viewSubmission"
+msgstr "Visualizar Submissão de Trabalho"
+
+msgid "submission.list.incompleteSubmissionNotice"
+msgstr "Esta Submissão de Trabalho deve ser concluída antes que um editor a revise."

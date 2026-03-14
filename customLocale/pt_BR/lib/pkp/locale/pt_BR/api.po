@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "api.publicFiles.500.badFilesDir"
+msgstr "O diretório de arquivos públicos não foi encontrado ou arquivos não podem ser salvos nele. Por favor, entre em contato com seu administrador para resolver este Volume dos Anais."
+
+msgid "api.submissionFiles.400.badDependentFileAssocType"
+msgstr "Você não pode associar um arquivo desta etapa de arquivo com outro arquivo de Submissão de Trabalho."
+
+msgid "api.submissionFiles.400.reviewRoundSubmissionNotMatch"
+msgstr "A rodada de avaliação que você forneceu não faz parte desta Submissão de Trabalho."
+
+msgid "api.submissions.403.deleteSubmissionOutOfContext"
+msgstr "Você não pode excluir uma Submissão de Trabalho que não está atribuída a este contexto."
+
+msgid "api.submissions.403.requestedOthersUnpublishedSubmissions"
+msgstr "Você só pode visualizar Submissões de Trabalhos não publicadas às quais você foi designado."
+
+msgid "api.submissions.403.unauthorizedDeleteSubmission"
+msgstr "Você não tem permissão para excluir esta Submissão de Trabalho."

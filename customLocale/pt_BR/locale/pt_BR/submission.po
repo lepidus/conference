@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "submission.submit.title"
+msgstr "Submeter um Trabalho para os Anais"
+
+msgid "submission.submit.userGroupDescription"
+msgstr "Escolha a capacidade sob a qual você está submetendo este Trabalho."
+
+msgid "submission.upload.selectComponent"
+msgstr "Selecionar componente da Submissão de Trabalho"
+
+msgid "submission.title"
+msgstr "Título da Submissão de Trabalho"
+
+msgid "submission.submit.newSubmissionMultiple"
+msgstr "Iniciar uma Nova Submissão de Trabalho em"
+
+msgid "submission.submit.newSubmissionSingle"
+msgstr "Nova Submissão de Trabalho"
+
+msgid "grid.action.workflow"
+msgstr "Fluxo de Trabalho de Submissão de Trabalho"
+
+msgid "submission.submit.noContext"
+msgstr "A Coleção de Anais desta Submissão de Trabalho não pôde ser encontrada."
+
+msgid "grid.action.galleyInIssueEntry"
+msgstr "A prova aparece na entrada do Volume dos Anais"
+
+msgid "grid.action.issueEntry"
+msgstr "Visualizar os metadados desta Submissão de Trabalho"
+
+msgid "submission.event.articleGalleyMadeAvailable"
+msgstr "A prova da Submissão de Trabalho \"{$galleyFormatName}\" foi disponibilizada."
+
+msgid "submission.event.articleGalleyMadeUnavailable"
+msgstr "A prova da Submissão de Trabalho \"{$galleyFormatName}\" foi indisponibilizada."
+
+msgid "submission.event.publicIdentifiers"
+msgstr "Os identificadores públicos da Submissão de Trabalho foram atualizados."
+
+msgid "submission.confirmSubmit"
+msgstr "Tem certeza de que deseja submeter esta Submissão de Trabalho à Coleção de Anais?"
+
+msgid "submission.event.issueMetadataUpdated"
+msgstr "Os metadados do Volume dos Anais da Submissão de Trabalho foram atualizados."
+
+msgid "submission.upload.fileContents"
+msgstr "Componente da Submissão de Trabalho"
+
+msgid "submission.submit.form.localeRequired"
+msgstr "Por favor, selecione um idioma para a Submissão de Trabalho."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Lista de Verificação de Submissão de Trabalho"
+
+msgid "submission.submit.form.titleRequired"
+msgstr "Por favor, insira o título do seu Trabalho."
+
+msgid "submission.submit.form.abstractRequired"
+msgstr "Por favor, insira o resumo do seu Trabalho."
+
+msgid "publication.assignToissue"
+msgstr "Atribuir ao Volume dos Anais"
+
+msgid "publication.changeIssue"
+msgstr "Alterar Volume dos Anais"
+
+msgid "publication.invalidIssue"
+msgstr "O Volume dos Anais para esta publicação não pôde ser encontrado."
+
+msgid "publication.publishedIn"
+msgstr "Publicado em <a href=\"{$issueUrl}\">{$issueTitle}</a>."
+
+msgid "publication.scheduledIn"
+msgstr "Programado para publicação em <a href=\"{$issueUrl}\">{$journalTitle}</a>."
+
+msgid "publication.unscheduledIn"
+msgstr "Este trabalho não foi programado para publicação em um Volume dos Anais."
+
+msgid "publication.selectIssue"
+msgstr "Selecione um Volume dos Anais para programar a publicação"
+
+msgid "publication.event.published"
+msgstr "A Submissão de Trabalho foi publicada."
+
+msgid "publication.event.scheduled"
+msgstr "A Submissão de Trabalho foi programada para publicação."
+
+msgid "publication.event.unpublished"
+msgstr "A Submissão de Trabalho foi despublicada."
+
+msgid "publication.invalidSubmission"
+msgstr "A Submissão de Trabalho para esta publicação não pôde ser encontrada."
+
+msgid "publication.required.declined"
+msgstr "Uma Submissão de Trabalho recusada não pode ser publicada."
+
+msgid "submission.copyrightOther.description"
+msgstr "Atribuir direitos autorais para Submissões de Trabalhos publicadas à seguinte parte."

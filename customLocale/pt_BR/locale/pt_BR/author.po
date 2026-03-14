@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "author.submit"
+msgstr "Novas Submissões de Trabalhos"
+
+msgid "author.track"
+msgstr "Submissões de Trabalhos Ativas"
+
+msgid "author.submit.submitArticle"
+msgstr "Submeter um Trabalho para os Anais"
+
+msgid "author.submit.startHereTitle"
+msgstr "Iniciar uma Nova Submissão de Trabalho"
+
+msgid "author.submit.startHereLink"
+msgstr "<a href=\"{$submitUrl}\" class=\"action\">Clique aqui</a> para ir à primeira etapa do processo de submissão de trabalhos em cinco etapas."
+
+msgid "author.submit.step1"
+msgstr "Etapa 1. Iniciando a Submissão do Trabalho"
+
+msgid "author.submit.step2"
+msgstr "Etapa 2. Enviando o Trabalho"
+
+msgid "author.submit.step3"
+msgstr "Etapa 3. Inserindo os Metadados do Trabalho"
+
+msgid "author.submit.step5"
+msgstr "Etapa 5. Confirmando a Submissão do Trabalho"
+
+msgid "author.submit.upload"
+msgstr "Enviar Trabalho"
+
+msgid "submission.submit.cancelSubmission"
+msgstr "Você pode completar esta Submissão de Trabalho em uma data posterior selecionando Submissões de Trabalhos Ativas na página inicial do autor."
+
+msgid "author.submit.notAccepting"
+msgstr "Esta Coleção de Anais não está recebendo Submissões de Trabalhos no momento."
+
+msgid "author.submit.qualifyForWaiver"
+msgstr "Por favor, considere solicitar a isenção da Taxa de Submissão de Trabalho para esta submissão"
+
+msgid "author.submissions.confirmDelete"
+msgstr "Tem certeza de que deseja excluir esta Submissão de Trabalho incompleta?"
+
+msgid "author.submissions.noSubmissions"
+msgstr "Nenhuma Submissão de Trabalho."
+
+msgid "author.submit.journalSection"
+msgstr "Seção da Coleção de Anais"
+
+msgid "author.submit.journalSectionDescription"
+msgstr "As Submissões de Trabalhos devem ser enviadas para uma das seções da Coleção de Anais."
+
+msgid "author.submit.verifyChecklist"
+msgstr "Você deve certificar-se de que todos os itens da lista de verificação de submissão foram atendidos antes de continuar."
+
+msgid "author.submit.copyrightNoticeAgree"
+msgstr "Os autores concordam com os termos deste Aviso de Direitos Autorais, que se aplicará a esta Submissão de Trabalho se e quando for publicada por esta Coleção de Anais (comentários ao editor podem ser adicionados abaixo)."
+
+msgid "author.submit.form.sectionRequired"
+msgstr "Por favor, selecione uma seção apropriada da Coleção de Anais para esta Submissão de Trabalho."
+
+msgid "author.submit.form.localeRequired"
+msgstr "Por favor, selecione um idioma para a Submissão de Trabalho."
+
+msgid "submission.submit.privacyStatement"
+msgstr "Declaração de Privacidade da Coleção de Anais"
+
+msgid "author.submit.submissionIndexingDescription"
+msgstr "Forneça termos para indexação da Submissão de Trabalho; separe os termos com ponto e vírgula (termo1; termo2; termo3)."
+
+msgid "author.submit.form.titleRequired"
+msgstr "Por favor, insira o título do seu Trabalho."
+
+msgid "author.submit.form.abstractRequired"
+msgstr "Por favor, insira o resumo do seu Trabalho."
+
+msgid "author.submit.submissionFile"
+msgstr "Arquivo de Submissão de Trabalho"
+
+msgid "author.submit.uploadSubmissionFile"
+msgstr "Enviar arquivo de Submissão de Trabalho"
+
+msgid "author.submit.replaceSubmissionFile"
+msgstr "Substituir arquivo de Submissão de Trabalho"
+
+msgid "author.submit.noSubmissionFile"
+msgstr "Nenhum arquivo de Submissão de Trabalho enviado."
+
+msgid "author.submit.noSubmissionConfirm"
+msgstr "Tem certeza de que deseja continuar sem enviar um arquivo de Submissão de Trabalho?"
+
+msgid "author.submit.supplementaryFilesInstructions"
+msgstr "Esta etapa opcional permite que Arquivos Suplementares sejam adicionados a uma Submissão de Trabalho. Os arquivos, que podem estar em qualquer formato, podem incluir (a) instrumentos de pesquisa, (b) conjuntos de dados, que estejam em conformidade com os termos de revisão ética da pesquisa do estudo, (c) fontes que de outra forma não estariam disponíveis para os leitores, (d) figuras e tabelas que não podem ser integradas ao próprio texto, ou outros materiais que contribuam para o trabalho."
+
+msgid "author.submit.noSupplementaryFiles"
+msgstr "Nenhum arquivo suplementar foi adicionado a esta Submissão de Trabalho."
+
+msgid "author.submit.confirmationDescription"
+msgstr "Para submeter seu manuscrito a {$journalTitle}, clique em Finalizar Submissão. O contato principal da submissão receberá uma confirmação por e-mail e poderá acompanhar o progresso da Submissão de Trabalho através do processo editorial fazendo login no site da Coleção de Anais. Agradecemos seu interesse em publicar com {$journalTitle}."
+
+msgid "author.submit.noFiles"
+msgstr "Nenhum arquivo foi anexado a esta Submissão de Trabalho."
+
+msgid "author.submit.finishSubmission"
+msgstr "Finalizar Submissão de Trabalho"
+
+msgid "author.submit.submissionComplete"
+msgstr "Submissão de Trabalho concluída. Agradecemos seu interesse em publicar com {$journalTitle}."
+
+msgid "author.submit.authorSubmitLoginMessage"
+msgstr "É necessária uma conta de usuário para submeter trabalhos a esta Coleção de Anais. Isso permite que nossos editores acompanhem suas Submissões de Trabalhos e entrem em contato com você quando o status da sua Submissão de Trabalho mudar, ou se informações adicionais forem necessárias."

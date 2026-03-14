@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "section.default.title"
+msgstr "Trabalhos dos Anais"
+
+msgid "default.genres.article"
+msgstr "Texto de Trabalho dos Anais"
+
+msgid "default.contextSettings.checklist.notPreviouslyPublished"
+msgstr "O Trabalho não foi publicado anteriormente, nem está sob consideração de outra Coleção de Anais (ou uma explicação foi fornecida em Comentários ao Editor)."
+
+msgid "default.contextSettings.checklist.fileFormat"
+msgstr "O arquivo do Trabalho está nos formatos OpenOffice, Microsoft Word ou RTF."
+
+msgid "default.contextSettings.privacyStatement"
+msgstr "<p>Os nomes e endereços de e-mail inseridos neste site da Coleção de Anais serão usados exclusivamente para as finalidades declaradas desta Coleção e não serão disponibilizados para qualquer outra finalidade ou a qualquer outra parte.</p>"
+
+msgid "default.contextSettings.openAccessPolicy"
+msgstr "Esta Coleção de Anais fornece acesso aberto imediato ao seu conteúdo, com base no princípio de que disponibilizar a pesquisa gratuitamente ao público apoia uma maior troca global de conhecimento."
+
+msgid "default.contextSettings.forReaders"
+msgstr "Incentivamos os leitores a se inscreverem no serviço de notificação de publicação desta Coleção de Anais. Use o link <a href=\"{$indexUrl}/{$contextPath}/user/register\">Cadastrar</a> no topo da página inicial da Coleção. Este cadastro resultará no recebimento do Sumário por e-mail para cada novo Volume dos Anais da Coleção. Esta lista também permite que a Coleção reivindique um certo nível de apoio ou leitoreship. Veja a <a href=\"{$indexUrl}/{$contextPath}/about/Conference Proceedings  Submissions#privacyStatement\">Declaração de Privacidade</a> da Coleção de Anais, que garante aos leitores que seus nomes e endereços de e-mail não serão usados para outras finalidades."
+
+msgid "default.contextSettings.forAuthors"
+msgstr "Interessado em submeter trabalhos a esta Coleção de Anais? Recomendamos que você revise a página <a href=\"{$indexUrl}/{$contextPath}/about\">Sobre a Coleção de Anais</a> para conhecer as políticas das seções, bem como as <a href=\"{$indexUrl}/{$contextPath}/about/Conference Proceedings  Submissions#authorGuidelines\">Diretrizes para Autores</a>. Os autores precisam se <a href=\"{$indexUrl}/{$contextPath}/user/register\">cadastrar</a> na Coleção de Anais antes de submeter ou, se já estiverem cadastrados, podem simplesmente <a href=\"{$indexUrl}/index/login\">fazer login</a> e iniciar o processo de cinco etapas."
+
+msgid "default.contextSettings.forLibrarians"
+msgstr "Incentivamos bibliotecários de pesquisa a incluir esta Coleção de Anais entre os periódicos eletrônicos de suas bibliotecas. Além disso, vale ressaltar que o sistema de publicação de código aberto desta Coleção é adequado para que bibliotecas hospedem para seus docentes usarem com Coleções de Anais nas quais estão envolvidos na edição (veja <a href=\"http://pkp.sfu.ca/ojs\">Open Conference Proceedings Series Systems</a>)."
+
+msgid "default.contextSettings.lockssLicense"
+msgstr "Esta Coleção de Anais utiliza o sistema LOCKSS para criar um sistema de arquivamento distribuído entre bibliotecas participantes e permite que essas bibliotecas criem arquivos permanentes da Coleção de Anais para fins de preservação e restauração. <a href=\"http://www.lockss.org/\">Saiba mais...</a>"
+
+msgid "default.contextSettings.clockssLicense"
+msgstr "Esta Coleção de Anais utiliza o sistema CLOCKSS para criar um sistema de arquivamento distribuído entre bibliotecas participantes e permite que essas bibliotecas criem arquivos permanentes da Coleção de Anais para fins de preservação e restauração. <a href=\"http://clockss.org/\">Saiba mais...</a>"
+
+msgid "default.groups.name.manager"
+msgstr "Gestor da Coleção de Anais"
+
+msgid "default.groups.plural.manager"
+msgstr "Gestores da Coleção de Anais"
+
+msgid "default.groups.name.editor"
+msgstr "Editor da Coleção de Anais"
+
+msgid "default.groups.plural.editor"
+msgstr "Editores da Coleção de Anais"

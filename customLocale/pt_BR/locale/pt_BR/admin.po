@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "admin.hostedContexts"
+msgstr "Coleções de Anais de Eventos Hospedados"
+
+msgid "admin.settings.redirect"
+msgstr "Redirecionamento de Coleções de Anais"
+
+msgid "admin.journals.journalSettings"
+msgstr "Configurações da Coleção de Anais"
+
+msgid "admin.journals.noneCreated"
+msgstr "Nenhuma Coleção de Anais foi criada."
+
+msgid "admin.contexts.create"
+msgstr "Criar Coleção de Anais"
+
+msgid "admin.contexts.form.pathExists"
+msgstr "O caminho informado já está sendo usado por outra Coleção de Anais."
+
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "O idioma principal deve ser um dos idiomas suportados pela Coleção de Anais."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Ativar esta Coleção de Anais para exibição pública no site"
+
+msgid "admin.contexts.contextDescription"
+msgstr "Descrição da Coleção de Anais"
+
+msgid "admin.journals.transcode"
+msgstr "Transcodificar metadados de Submissões de ISO8859-1"
+
+msgid "admin.journals.pathImportInstructions"
+msgstr "Caminho da Coleção de Anais existente ou caminho a ser criado (ex.: \"ojs\")."
+
+msgid "admin.contexts.create"
+msgstr "Criar Coleção de Anais"

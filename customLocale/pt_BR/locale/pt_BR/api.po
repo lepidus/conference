@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "api.announcements.400.contextsNotMatched"
+msgstr "O comunicado que você solicitou não faz parte desta Coleção de Anais."
+
+msgid "api.emails.403.disabled"
+msgstr "O recurso de notificação por e-mail não foi ativado para esta Coleção de Anais."
+
+msgid "api.submissions.403.cantChangeContext"
+msgstr "Você não pode alterar a Coleção de Anais de uma Submissão de Trabalho."
+
+msgid "api.submissions.403.unpublishedIssues"
+msgstr "Você não tem permissão para visualizar volumes não publicados."
+
+msgid "api.contexts.403.requestedDisabledContexts"
+msgstr "Você só pode visualizar Coleções de Anais que foram ativadas."
+
+msgid "api.contexts.403.notAllowed"
+msgstr "Você não tem permissão para visualizar esta Coleção de Anais."
+
+msgid "api.contexts.403.requiresContext"
+msgstr "Você não pode editar esta Coleção de Anais a partir da API de todo o site."
+
+msgid "api.contexts.403.notAllowedEdit"
+msgstr "Você não tem permissão para editar esta Coleção de Anais."
+
+msgid "api.contexts.403.notAllowedDelete"
+msgstr "Você não tem permissão para excluir esta Coleção de Anais."
+
+msgid "api.contexts.404.contextNotFound"
+msgstr "A Coleção de Anais solicitada não foi encontrada."
+
+msgid "api.publications.403.contextsDidNotMatch"
+msgstr "A publicação que você solicitou não faz parte desta Coleção de Anais."
+
+msgid "api.publications.403.submissionsDidNotMatch"
+msgstr "A publicação que você solicitou não faz parte desta Submissão de Trabalho."

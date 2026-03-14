@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "grid.action.requestRevisions"
+msgstr "Solicitar revisões para esta Submissão de Trabalho"
+
+msgid "grid.action.accept"
+msgstr "Aceitar esta Submissão de Trabalho"
+
+msgid "grid.action.decline"
+msgstr "Recusar esta Submissão de Trabalho"
+
+msgid "grid.action.internalReview"
+msgstr "Enviar esta Submissão de Trabalho para avaliação interna"
+
+msgid "grid.action.externalReview"
+msgstr "Enviar esta Submissão de Trabalho para avaliação externa"
+
+msgid "grid.action.sendToProduction"
+msgstr "Enviar esta Submissão de Trabalho para produção"
+
+msgid "grid.action.viewMetadata"
+msgstr "Visualizar os metadados desta Submissão de Trabalho"
+
+msgid "grid.action.bookInfo"
+msgstr "Informações da Submissão de Trabalho"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "Biblioteca de Submissões de Trabalhos"
+
+msgid "grid.submissionChecklist.title"
+msgstr "Lista de Verificação de Submissão de Trabalho"
+
+msgid "grid.artworkFile.placement"
+msgstr "Posicionamento na Submissão de Trabalho"
+
+msgid "grid.submission.active.selectOrphaned"
+msgstr "Incluir Submissões de Trabalhos incompletas não submetidas por um autor."

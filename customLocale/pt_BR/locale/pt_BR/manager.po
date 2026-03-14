@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "manager.distribution.copyrightYearBasis.description"
+msgstr "Escolha como uma data de direitos autorais padrão é selecionada para uma Submissão de Trabalho. Este padrão pode ser substituído caso a caso. Se você \"publicar conforme avança\", não use a data de publicação do Volume dos Anais."
+
+msgid "manager.distribution.copyrightYearBasis.issue"
+msgstr "Usar a data de publicação do Volume dos Anais"
+
+msgid "manager.distribution.copyrightYearBasis.submission"
+msgstr "Usar a data de publicação da Submissão de Trabalho"
+
+msgid "manager.distribution.publishingMode.none"
+msgstr "O OJS não será usado para publicar o conteúdo da Coleção de Anais online."
+
+msgid "manager.distribution.publishingMode.openAccess"
+msgstr "A Coleção de Anais fornecerá acesso aberto ao seu conteúdo."
+
+msgid "manager.distribution.publishingMode.subscription"
+msgstr "A Coleção de Anais exigirá assinaturas para acessar parte ou todo o seu conteúdo."
+
+msgid "manager.emails.confirmResetAll"
+msgstr "Tem certeza de que deseja redefinir todos os modelos de e-mail nesta Coleção de Anais? Você perderá quaisquer personalizações que tenha feito."
+
+msgid "manager.files.note"
+msgstr "Nota: O Navegador de Arquivos é um recurso avançado que permite que os arquivos e diretórios associados a uma Coleção de Anais sejam visualizados e manipulados diretamente."
+
+msgid "manager.journalManagement"
+msgstr "Gerenciamento da Coleção de Anais"
+
+msgid "manager.language.submissions"
+msgstr "Submissões de Trabalhos"
+
+msgid "manager.language.confirmDefaultSettingsOverwrite"
+msgstr "Isso substituirá quaisquer configurações da Coleção de Anais específicas de idioma que você tinha para este idioma"
+
+msgid "manager.languages.noneAvailable"
+msgstr "Desculpe, não há idiomas adicionais disponíveis. Entre em contato com o administrador do site se desejar usar idiomas adicionais com esta Coleção de Anais."
+
+msgid "manager.languages.primaryLocaleInstructions"
+msgstr "Este será o idioma padrão do site da Coleção de Anais."
+
+msgid "manager.payment.generalFeesDescription"
+msgstr "A Associação aparecerá em Sobre a Coleção de Anais em Políticas."
+
+msgid "manager.payment.options.acceptSubscriptionPayments"
+msgstr "Isso ativará pagamentos para Assinaturas, onde tipos, custo, duração e assinaturas são gerenciados pelo Gestor da Coleção de Anais (Assinatura)."
+
+msgid "manager.payment.options.enablePayments"
+msgstr "Os pagamentos serão ativados para esta Coleção de Anais. Note que os usuários serão obrigados a fazer login para efetuar pagamentos."
+
+msgid "manager.payment.options.onlypdf"
+msgstr "Restringir Acesso Apenas à Versão em PDF de Volumes dos Anais e Submissões de Trabalhos"
+
+msgid "manager.payment.options.publicationFee"
+msgstr "Taxa de Processamento de Submissão de Trabalho"
+
+msgid "manager.payment.options.purchaseArticleFee"
+msgstr "Comprar Submissão de Trabalho"
+
+msgid "manager.payment.options.purchaseIssueFee"
+msgstr "Comprar Volume dos Anais"
+
+msgid "manager.payment.readerFeesDescription"
+msgstr "As opções selecionadas, juntamente com suas descrições e taxas (que podem ser editadas abaixo), aparecerão em Sobre a Coleção de Anais em Políticas, bem como nos pontos onde o pagamento é necessário."
+
+msgid "manager.people.allEnrolledUsers"
+msgstr "Usuários Cadastrados nesta Coleção de Anais"
+
+msgid "manager.people.allJournals"
+msgstr "Todas as Coleções de Anais"
+
+msgid "manager.people.allSiteUsers"
+msgstr "Cadastrar um Usuário deste Site nesta Coleção de Anais"
+
+msgid "manager.people.confirmRemove"
+msgstr "Remover este usuário desta Coleção de Anais? Esta ação removerá o usuário de todas as funções dentro desta Coleção de Anais."
+
+msgid "manager.people.enrollSyncJournal"
+msgstr "Com Coleção de Anais"
+
+msgid "manager.people.mergeUsers.from.description"
+msgstr "Selecione um usuário (ou vários) para mesclar em outra conta de usuário (por exemplo, quando alguém tem duas contas de usuário). A(s) conta(s) selecionada(s) primeiro será(ão) excluída(s) e quaisquer Submissões de Trabalhos, atribuições, etc. serão atribuídos à segunda conta."
+
+msgid "manager.people.syncUserDescription"
+msgstr "A sincronização de cadastro cadastrará todos os usuários cadastrados na função especificada na Coleção de Anais especificada na mesma função nesta Coleção de Anais. Esta função permite que um conjunto comum de usuários (por exemplo, Avaliadores) seja sincronizado entre Coleções de Anais."
+
+msgid "manager.sections.alertDelete"
+msgstr "Antes que esta seção possa ser excluída, você deve mover as Submissões de Trabalhos enviadas para ela para outras seções."
+
+msgid "manager.section.sectionEditorInstructions"
+msgstr "Adicione um Editor de Seção a esta seção para que as Submissões de Trabalhos sejam atribuídas automaticamente ao Editor de Seção. (Caso contrário, os Editores de Seção podem ser atribuídos manualmente, após a chegada de uma submissão.) Se adicionado, um Editor de Seção pode ser automaticamente atribuído para supervisionar a AVALIAÇÃO (revisão por pares) e/ou a EDIÇÃO (revisão de texto, diagramação e revisão de provas) de Submissões de Trabalhos para esta seção. Editores de Seção são criados clicando em Editores de Seção em Funções no Gerenciamento da Coleção de Anais."
+
+msgid "manager.sections.hideTocAuthor"
+msgstr "Omitir nomes dos autores dos itens da seção no sumário dos Volumes dos Anais."
+
+msgid "manager.sections.hideTocTitle"
+msgstr "Omitir o título desta seção no sumário dos Volumes dos Anais."
+
+msgid "manager.sections.identifyTypeExamples"
+msgstr "(Por exemplo, \"Trabalho Revisado por Pares\", \"Resenha de Livro não Avaliada\", \"Comentário Convidado\", etc.)"
+
+msgid "manager.sections.open"
+msgstr "Submissões de Trabalhos Abertas"
+
+msgid "manager.sections.submissionIndexing"
+msgstr "Não será incluído na indexação da Coleção de Anais"
+
+msgid "manager.section.submissionsToThisSection"
+msgstr "Submissões de Trabalhos feitas para esta seção da Coleção de Anais"
+
+msgid "manager.setup"
+msgstr "Configurações da Coleção de Anais"
+
+msgid "manager.setup.homepageContent"
+msgstr "Conteúdo da Página Inicial da Coleção de Anais"
+
+msgid "manager.setup.homepageContentDescription"
+msgstr "A página inicial da Coleção de Anais consiste em links de navegação por padrão. Conteúdo adicional da página inicial pode ser adicionado usando uma ou todas as seguintes opções, que aparecerão na ordem mostrada."
+
+msgid "manager.setup.useStyleSheet"
+msgstr "Folha de estilo da Coleção de Anais"
+
+msgid "manager.setup.contextName"
+msgstr "Nome da Coleção de Anais"
+
+msgid "manager.setup.pageHeader"
+msgstr "Cabeçalho da Página da Coleção de Anais"
+
+msgid "manager.setup.addItemtoAboutJournal"
+msgstr "Adicionar Item para Aparecer em \"Sobre a Coleção de Anais\""
+
+msgid "manager.setup.appearInAboutJournal"
+msgstr "(Para aparecer em Sobre a Coleção de Anais)"
+
+msgid "manager.setup.competingInterests.requireAuthors"
+msgstr "Exigir que autores submetentes enviem uma declaração de Conflito de Interesses (CI) com sua Submissão de Trabalho."
+
+msgid "manager.setup.history"
+msgstr "Histórico da Coleção de Anais"
+
+msgid "manager.setup.historyDescription"
+msgstr "Este texto aparecerá na seção \"Sobre\" do site da Coleção de Anais e pode ser usado para descrever mudanças em títulos, corpo editorial e outros itens relevantes para o histórico de publicação da Coleção de Anais."
+
+msgid "manager.setup.currentIssue"
+msgstr "Volume dos Anais Atual"
+
+msgid "manager.setup.details.description"
+msgstr "Nome da Coleção de Anais, ISSN, contatos, patrocinadores e mecanismos de busca."
+
+msgid "manager.setup.disableUserRegistration"
+msgstr "O Gestor da Coleção de Anais cadastrará todas as contas de usuário. Editores ou Editores de Seção podem cadastrar contas de usuário para avaliadores."
+
+msgid "manager.setup.disciplineDescription"
+msgstr "Útil quando a Coleção de Anais atravessa fronteiras disciplinares e/ou autores submetem itens multidisciplinares."
+
+msgid "manager.setup.disciplineProvideExamples"
+msgstr "Forneça exemplos de disciplinas acadêmicas relevantes para esta Coleção de Anais"
+
+msgid "manager.setup.displayCurrentIssue"
+msgstr "Adicionar o sumário do Volume dos Anais atual (se disponível)."
+
+msgid "manager.setup.emailSignature.description"
+msgstr "Os e-mails preparados que são enviados pelo sistema em nome da Coleção de Anais terão a seguinte assinatura adicionada ao final."
+
+msgid "manager.setup.enableAnnouncements.description"
+msgstr "Comunicados podem ser publicados para informar os leitores sobre notícias e eventos da Coleção de Anais. Os comunicados publicados aparecerão na página de Comunicados."
+
+msgid "manager.setup.enableUserRegistration"
+msgstr "Visitantes podem cadastrar uma conta de usuário na Coleção de Anais."
+
+msgid "manager.setup.focusAndScope.description"
+msgstr "Descreva para autores, leitores e bibliotecários a gama de Trabalhos e outros itens que a Coleção de Anais publicará."
+
+msgid "manager.setup.forAuthorsToIndexTheirWorkDescription"
+msgstr "O OJS adere ao Protocolo de Colheita de Metadados da <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a>, que é o padrão emergente para fornecer acesso bem indexado a recursos de pesquisa eletrônicos em escala global. Os autores usarão um modelo semelhante para fornecer metadados para sua Submissão de Trabalho. O Gestor da Coleção de Anais deve selecionar as categorias para indexação e apresentar aos autores exemplos relevantes para auxiliá-los na indexação de seus trabalhos."
+
+msgid "manager.setup.form.journalInitialsRequired"
+msgstr "As iniciais da Coleção de Anais são obrigatórias."
+
+msgid "manager.setup.form.journalTitleRequired"
+msgstr "O título da Coleção de Anais é obrigatório."
+
+msgid "manager.setup.form.numReviewersPerSubmission"
+msgstr "O número de avaliadores por Submissão de Trabalho é obrigatório."
+
+msgid "manager.setup.guidingSubmissions"
+msgstr "Etapa 3. Orientando Submissões de Trabalhos"
+
+msgid "manager.setup.identity"
+msgstr "Identidade da Coleção de Anais"
+
+msgid "manager.setup.includeCreativeCommons"
+msgstr "Para Coleções de Anais que oferecem acesso aberto imediato ou retardado, inclua uma licença Creative Commons com todo trabalho publicado no momento apropriado."
+
+msgid "manager.setup.information.description"
+msgstr "Breves descrições da Coleção de Anais para bibliotecários e potenciais autores e leitores. Estas são disponibilizadas na barra lateral do site quando o bloco de Informações foi adicionado."
+
+msgid "manager.setup.initialIssue"
+msgstr "Volume dos Anais Inicial"
+
+msgid "manager.setup.initialIssueDescription"
+msgstr "Dependendo do formato selecionado, identifique o número, volume e/ou ano do primeiro Volume dos Anais a ser publicado com o OJS:"
+
+msgid "manager.setup.itemsPerPage.description"
+msgstr "Limite o número de itens (por exemplo, Submissões de Trabalhos, usuários ou atribuições de edição) para mostrar em uma lista antes de mostrar itens subsequentes em outra página."
+
+msgid "manager.setup.journalAbbreviation"
+msgstr "Abreviação da Coleção de Anais"
+
+msgid "manager.setup.journalArchiving"
+msgstr "Arquivamento da Coleção de Anais"
+
+msgid "manager.setup.contextSummary"
+msgstr "Resumo da Coleção de Anais"
+
+msgid "manager.setup.contextAbout"
+msgstr "Sobre a Coleção de Anais"
+
+msgid "manager.setup.contextAbout.description"
+msgstr "Inclua qualquer informação sobre sua Coleção de Anais que possa ser de interesse para leitores, autores ou avaliadores. Isso pode incluir sua política de acesso aberto, o foco e escopo da Coleção de Anais, aviso de direitos autorais, divulgação de patrocínio, histórico da Coleção de Anais, declaração de privacidade e inclusão em qualquer sistema de arquivamento LOCKSS ou CLOCKSS."
+
+msgid "manager.setup.journalHomepageContent"
+msgstr "Conteúdo da Página Inicial da Coleção de Anais"
+
+msgid "manager.setup.journalHomepageContentDescription"
+msgstr "Por padrão, a página inicial consiste em links de navegação. Conteúdo adicional da página inicial pode ser adicionado usando uma ou todas as seguintes opções, que aparecerão na ordem mostrada. Note que o Volume dos Anais atual está sempre acessível através do link Atual na barra de navegação."
+
+msgid "manager.setup.journalHomepageHeader"
+msgstr "Cabeçalho da Página Inicial da Coleção de Anais"
+
+msgid "manager.setup.journalHomepageHeader.altText"
+msgstr "Cabeçalho da Página Inicial da Coleção de Anais"
+
+msgid "manager.setup.journalHomepageHeaderDescription"
+msgstr "Uma versão gráfica do título e logotipo da Coleção de Anais (como um arquivo .gif, .jpg ou .png) pode ser enviada para a página inicial, que substituirá a versão em texto que aparece caso contrário."
+
+msgid "manager.setup.contextInitials"
+msgstr "Iniciais da Coleção de Anais"
+
+msgid "manager.setup.journalLayout"
+msgstr "Layout da Coleção de Anais"
+
+msgid "manager.setup.journalLayoutDescription"
+msgstr "Escolha um tema da Coleção de Anais e selecione componentes de layout aqui. Uma folha de estilo da Coleção de Anais também pode ser enviada, que pode ser usada para substituir dados de estilo nas folhas de estilo de todo o sistema e na folha de estilo do tema (se um tema for escolhido)."
+
+msgid "manager.setup.journalLogo"
+msgstr "Logotipo da Coleção de Anais"
+
+msgid "manager.setup.journalLogo.altText"
+msgstr "Logotipo da Coleção de Anais"
+
+msgid "manager.setup.journalPageFooter"
+msgstr "Rodapé da Página da Coleção de Anais"
+
+msgid "manager.setup.journalPageFooterDescription"
+msgstr "Este é o rodapé da sua Coleção de Anais. Para alterar ou atualizar o rodapé, cole o código HTML na caixa de texto abaixo. Exemplos podem ser outra barra de navegação, um contador, etc. Este rodapé aparecerá em cada página."
+
+msgid "manager.setup.journalPolicies"
+msgstr "Etapa 2. Políticas da Coleção de Anais"
+
+msgid "manager.setup.journalSetup"
+msgstr "Configuração da Coleção de Anais"
+
+msgid "manager.setup.journalSetupUpdated"
+msgstr "A configuração da sua Coleção de Anais foi atualizada."
+
+msgid "manager.setup.journalStyleSheetInvalid"
+msgstr "Formato de folha de estilo da Coleção de Anais inválido. O formato aceito é .css."
+
+msgid "manager.setup.journalTheme"
+msgstr "Tema da Coleção de Anais"
+
+msgid "manager.setup.journalThumbnail"
+msgstr "Miniatura da Coleção de Anais"
+
+msgid "manager.setup.journalThumbnail.description"
+msgstr "Um pequeno logotipo ou representação da Coleção de Anais que pode ser usado em listas de Coleções de Anais."
+
+msgid "manager.setup.contextTitle"
+msgstr "Título da Coleção de Anais"
+
+msgid "manager.setup.keyInfo.description"
+msgstr "Forneça uma breve descrição da sua Coleção de Anais e identifique editores, diretores administrativos e outros membros de sua equipe editorial."
+
+msgid "manager.setup.plnDescription"
+msgstr "A Rede de Preservação PKP (PN) fornece serviços de preservação gratuitos para qualquer Coleção de Anais OJS que atenda a alguns critérios básicos."
+
+msgid "manager.setup.plnPluginNotInstalled"
+msgstr "A Rede de Preservação PKP (PN) fornece serviços de preservação gratuitos para qualquer Coleção de Anais OJS que atenda a alguns critérios básicos. Para arquivar sua Coleção de Anais na PN, peça ao seu administrador para instalar o Plugin PKP|PN da Galeria de Plugins."
+
+msgid "manager.setup.lockssEnable"
+msgstr "Ativar LOCKSS para armazenar e distribuir conteúdo da Coleção de Anais em bibliotecas participantes através de uma página de <a href=\"{$lockssUrl}\" target=\"_blank\">Manifesto do Publicante</a> LOCKSS."
+
+msgid "manager.setup.lockssLicenseDescription"
+msgstr "Uma licença LOCKSS aparecerá em Sobre a Coleção de Anais em Arquivamento: <a href=\"http://www.lockss.org/community/publishers-titles-gln/\" target=\"_blank\">Licença LOCKSS</a>"
+
+msgid "manager.setup.lockssRegister"
+msgstr "Identifique 6-10 bibliotecas que se cadastrarão e armazenarão em cache a Coleção de Anais. Por exemplo, recorra a instituições onde editores ou membros do Conselho trabalham e/ou instituições já participantes do LOCKSS. Veja <a href=\"http://www.lockss.org/community/\" target=\"_blank\">a comunidade LOCKSS</a>."
+
+msgid "manager.setup.clockssEnable"
+msgstr "Ativar CLOCKSS para armazenar e distribuir conteúdo da Coleção de Anais em bibliotecas participantes através de uma página de <a href=\"{$clockssUrl}\" target=\"_blank\">Manifesto do Publicante</a> CLOCKSS."
+
+msgid "manager.setup.clockssLicenseDescription"
+msgstr "Uma licença CLOCKSS aparecerá em Sobre a Coleção de Anais em Arquivamento: <a href=\"http://clockss.org/\" target=\"_blank\">Licença CLOCKSS</a>"
+
+msgid "manager.setup.look.description"
+msgstr "Cabeçalho da página inicial, conteúdo, cabeçalho da Coleção de Anais, rodapé, barra de navegação e folha de estilo."
+
+msgid "manager.setup.managingTheJournal"
+msgstr "Etapa 4. Gerenciando a Coleção de Anais"
+
+msgid "manager.setup.navItemIsLiteral"
+msgstr "O valor do rótulo é uma string literal (por exemplo, \"Configuração da Coleção de Anais\") em vez de uma chave de mensagem de localização (por exemplo, \"manager.setup\")"
+
+msgid "manager.setup.notifications.submissionAckDisabled"
+msgstr "<strong>Nota:</strong> O e-mail de confirmação de Submissão de Trabalho está atualmente desativado. Para usar este recurso, ative o e-mail \"Confirmação de Submissão de Trabalho\" em E-mails."
+
+msgid "manager.setup.proofingInstructionsDescription"
+msgstr "As Instruções de Revisão de Provas serão disponibilizadas para Revisores de Provas, Autores, Editores de Diagramação e Editores de Seção na etapa de Edição da Submissão de Trabalho. Abaixo está um conjunto padrão de instruções em HTML, que pode ser editado ou substituído pelo Gestor da Coleção de Anais a qualquer momento (em HTML ou texto simples)."
+
+msgid "manager.setup.publicationScheduleDescription"
+msgstr "Os itens da Coleção de Anais podem ser publicados coletivamente, como parte de um Volume dos Anais com seu próprio Sumário. Alternativamente, itens individuais podem ser publicados assim que estiverem prontos, adicionando-os ao Sumário do volume \"atual\". Forneça aos leitores, em Sobre a Coleção de Anais, uma declaração sobre o sistema que esta Coleção de Anais usará e sua frequência esperada de publicação."
+
+msgid "manager.setup.publicIdentifier"
+msgstr "Identificação do Conteúdo da Coleção de Anais"
+
+msgid "manager.setup.restrictSiteAccess"
+msgstr "Os usuários devem estar cadastrados e fazer login para visualizar o site da Coleção de Anais."
+
+msgid "manager.setup.reviewOptions.restrictReviewerFileAccess.description"
+msgstr "Os avaliadores não terão acesso ao arquivo da Submissão de Trabalho até que tenham concordado em avaliá-lo."
+
+msgid "manager.setup.searchDescription.description"
+msgstr "Forneça uma breve descrição (50-300 caracteres) da Coleção de Anais que os mecanismos de busca podem exibir ao listar a Coleção de Anais nos resultados de busca."
+
+msgid "manager.setup.sectionsDefaultSectionDescription"
+msgstr "(Se as seções não forem adicionadas, então os itens são submetidos à seção Trabalhos dos Anais por padrão.)"
+
+msgid "manager.setup.sectionsDescription"
+msgstr "Para criar ou modificar seções para a Coleção de Anais (por exemplo, Trabalhos dos Anais, Resenhas de Livros, etc.), vá para Gerenciamento de Seções.<br /><br />Autores ao submeter itens à Coleção de Anais designarão..."
+
+msgid "manager.setup.selectEditorDescription"
+msgstr "O editor da Coleção de Anais que acompanhará o trabalho através do processo editorial."
+
+msgid "manager.setup.selectSectionDescription"
+msgstr "A seção da Coleção de Anais para a qual o item será considerado."
+
+msgid "manager.setup.siteAccess.viewContent"
+msgstr "Visualizar Conteúdo de Submissões de Trabalhos"
+
+msgid "manager.setup.stepsToJournalSite"
+msgstr "Cinco Etapas para um Site de Coleção de Anais"
+
+msgid "manager.setup.submissionGuidelines"
+msgstr "Diretrizes de Submissão de Trabalhos"
+
+msgid "manager.setup.submissionPreparationChecklist"
+msgstr "Lista de Verificação de Preparação de Submissão de Trabalhos"
+
+msgid "manager.setup.submissionPreparationChecklistDescription"
+msgstr "Ao fazer uma submissão à Coleção de Anais, os autores são primeiro solicitados a marcar cada item da Lista de Verificação de Preparação de Submissão como concluído, antes de prosseguir. A lista também aparece nas Diretrizes para Autores, em Sobre a Coleção de Anais. A lista pode ser editada abaixo, mas todos os itens da lista exigirão uma marca de seleção antes que os autores possam prosseguir com sua Submissão de Trabalho."
+
+msgid "manager.setup.submissions"
+msgstr "Submissões de Trabalhos"
+
+msgid "manager.setup.disableSubmissions.description"
+msgstr "Impedir que usuários submetam novos Trabalhos à Coleção de Anais. As Submissões de Trabalhos podem ser desativadas para seções individuais da Coleção de Anais na página de configurações de <a href=\"{$url}\">seções da Coleção de Anais</a>."
+
+msgid "manager.setup.disableSubmissions.notAccepting"
+msgstr "Esta Coleção de Anais não está recebendo Submissões de Trabalhos no momento. Visite as configurações de fluxo de trabalho para permitir Submissões de Trabalhos."
+
+msgid "manager.setup.uniqueIdentifierDescription"
+msgstr "Submissões de Trabalhos e Volumes dos Anais podem ser marcados com um número ou string de identificação, empregando um sistema de registro como o Sistema de Identificador de Objeto Digital (DOI)."
+
+msgid "manager.setup.useEditorialReviewBoard"
+msgstr "Um conselho editorial/de avaliação será usado pela Coleção de Anais."
+
+msgid "manager.statistics.statistics"
+msgstr "Estatísticas da Coleção de Anais"
+
+msgid "manager.statistics.statistics.articleViews"
+msgstr "Contagens de Visualizações de Submissões de Trabalhos (apenas para Autores)"
+
+msgid "manager.statistics.statistics.description"
+msgstr "O OJS calcula as seguintes estatísticas para cada Coleção de Anais. Os \"dias para avaliação\" são calculados da data de submissão (ou designação de Versão para Avaliação) até a Decisão Editorial inicial, enquanto os \"dias para publicação\" são medidos para Submissões de Trabalhos aceitas desde seu envio original até sua publicação."
+
+msgid "manager.statistics.statistics.makePublic"
+msgstr "Marque os itens para serem disponibilizados aos leitores em Sobre a Coleção de Anais."
+
+msgid "manager.statistics.statistics.note"
+msgstr "Nota: As porcentagens para Submissões de Trabalhos revisadas por pares podem não somar 100%, pois itens reenviados são aceitos, recusados ou ainda estão em processo."
+
+msgid "manager.statistics.statistics.numIssues"
+msgstr "Volumes dos Anais publicados"
+
+msgid "manager.statistics.statistics.numSubmissions"
+msgstr "Total de Submissões de Trabalhos"
+
+msgid "manager.statistics.statistics.selectSections"
+msgstr "Selecione as seções para calcular as estatísticas revisadas por pares desta Coleção de Anais."
+
+msgid "manager.statistics.reports.defaultReport.articleDownloads"
+msgstr "Downloads de arquivos de Submissões de Trabalhos"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstract"
+msgstr "Visualizações da página de resumo de Submissões de Trabalhos"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstractAndDownloads"
+msgstr "Visualizações da página de resumo e downloads de Submissões de Trabalhos"
+
+msgid "manager.statistics.reports.defaultReport.journalIndexPageViews"
+msgstr "Visualizações da página principal da Coleção de Anais"
+
+msgid "manager.statistics.reports.defaultReport.issuePageViews"
+msgstr "Visualizações da página de sumário do Volume dos Anais"
+
+msgid "manager.statistics.reports.filters.byContext.description"
+msgstr "Restringir resultados por contexto (Volumes dos Anais e/ou Submissões de Trabalhos)."
+
+msgid "manager.statistics.reports.filters.byObject.description"
+msgstr "Restringir resultados por tipo de objeto (Coleção de Anais, Volume dos Anais, Submissão de Trabalho, tipos de arquivo) e/ou por um ou mais ID(s) de objeto."
+
+msgid "manager.subscriptionPolicies.expiryRemindersDescription"
+msgstr "Lembretes automatizados por e-mail (disponíveis para edição pelos Gestores da Coleção de Anais nos E-mails do OJS) podem ser enviados aos assinantes antes e depois que uma assinatura expirar."
+
+msgid "manager.subscriptionPolicies.openAccessNotificationDescription"
+msgstr "Leitores cadastrados terão a opção de receber o sumário por e-mail quando um Volume dos Anais se tornar de acesso aberto."
+
+msgid "manager.subscriptionPolicies.onlinePaymentNotificationsDescription"
+msgstr "Notificações automáticas de pagamento online podem ser enviadas aos assinantes quando um pagamento é recebido."

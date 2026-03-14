@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "emails.userRegister.subject"
+msgstr "Cadastro na Coleção de Anais"
+
+msgid "emails.publishNotify.subject"
+msgstr "Novo Volume dos Anais Publicado"
+
+msgid "emails.publishNotify.description"
+msgstr "Este e-mail é enviado aos leitores cadastrados através do link \"Notificar Usuários\" na Página Inicial do Editor. Notifica os leitores sobre um novo Volume dos Anais e os convida a visitar a Coleção de Anais em um URL fornecido."
+
+msgid "emails.lockssExistingArchive.description"
+msgstr "Este e-mail solicita ao responsável por um arquivo LOCKSS que considere incluir esta Coleção de Anais em seu arquivo. Fornece o URL para o Manifesto do Publicante LOCKSS da Coleção de Anais."
+
+msgid "emails.lockssNewArchive.description"
+msgstr "Este e-mail incentiva o destinatário a participar da iniciativa LOCKSS e incluir esta Coleção de Anais no arquivo. Fornece informações sobre a iniciativa LOCKSS e formas de se envolver."
+
+msgid "emails.submissionAck.subject"
+msgstr "Confirmação de Submissão de Trabalho"
+
+msgid "emails.submissionAck.description"
+msgstr "Este e-mail, quando ativado, é enviado automaticamente a um autor quando ele completa o processo de submissão de um manuscrito à Coleção de Anais. Fornece informações sobre o acompanhamento da submissão através do processo e agradece ao autor pela Submissão de Trabalho."
+
+msgid "emails.submissionAckNotUser.subject"
+msgstr "Confirmação de Submissão de Trabalho"
+
+msgid "emails.submissionAckNotUser.description"
+msgstr "Este e-mail, quando ativado, é enviado automaticamente aos outros autores que não são usuários no OJS especificados durante o processo de Submissão de Trabalho."
+
+msgid "emails.editorAssign.description"
+msgstr "Este e-mail notifica um Editor de Seção que o Editor o designou para a tarefa de supervisionar uma submissão através do processo editorial. Fornece informações sobre a Submissão de Trabalho e como acessar o site da Coleção de Anais."
+
+msgid "emails.reviewRequest.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequest.description"
+msgstr "Este e-mail do Editor de Seção para um Avaliador solicita que o avaliador aceite ou decline a tarefa de avaliar uma submissão. Fornece informações sobre a submissão, como título e resumo, uma data limite para avaliação e como acessar a Submissão de Trabalho. Esta mensagem é usada quando o Processo de Avaliação Padrão é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação. (Caso contrário, veja REVIEW_REQUEST_ATTACHED.)"
+
+msgid "emails.reviewRequestRemindAuto.subject"
+msgstr "Lembrete de Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestOneclick.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestOneclick.description"
+msgstr "Este e-mail do Editor de Seção para um Avaliador solicita que o avaliador aceite ou decline a tarefa de avaliar uma submissão. Fornece informações sobre a submissão, como título e resumo, uma data limite para avaliação e como acessar a Submissão de Trabalho. Esta mensagem é usada quando o Processo de Avaliação Padrão é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação e o acesso de um clique ao avaliador está ativado."
+
+msgid "emails.reviewRequestRemindAutoOneclick.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestAttached.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestAttached.description"
+msgstr "Este e-mail é enviado pelo Editor de Seção a um Avaliador para solicitar que ele aceite ou decline a tarefa de avaliar uma submissão. Inclui a Submissão de Trabalho como um anexo. Esta mensagem é usada quando o Processo de Avaliação por Anexo de E-mail é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação. (Caso contrário, veja REVIEW_REQUEST.)"
+
+msgid "emails.reviewRequestSubsequent.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestSubsequent.description"
+msgstr "Este e-mail do Editor de Seção para um Avaliador solicita que o avaliador aceite ou decline a tarefa de avaliar uma submissão para uma segunda ou maior rodada de avaliação. Fornece informações sobre a submissão, como título e resumo, uma data limite para avaliação e como acessar a Submissão de Trabalho. Esta mensagem é usada quando o Processo de Avaliação Padrão é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação. (Caso contrário, veja REVIEW_REQUEST_ATTACHED_SUBSEQUENT.)"
+
+msgid "emails.reviewRequestOneclickSubsequent.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestOneclickSubsequent.description"
+msgstr "Este e-mail do Editor de Seção para um Avaliador solicita que o avaliador aceite ou decline a tarefa de avaliar uma submissão para uma segunda ou maior rodada de avaliação. Fornece informações sobre a submissão, como título e resumo, uma data limite para avaliação e como acessar a Submissão de Trabalho. Esta mensagem é usada quando o Processo de Avaliação Padrão é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação e o acesso de um clique ao avaliador está ativado."
+
+msgid "emails.reviewRequestAttachedSubsequent.subject"
+msgstr "Solicitação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRequestAttachedSubsequent.description"
+msgstr "Este e-mail é enviado pelo Editor de Seção a um Avaliador para solicitar que ele aceite ou decline a tarefa de avaliar uma submissão para uma segunda ou maior rodada de avaliação. Inclui a Submissão de Trabalho como um anexo. Esta mensagem é usada quando o Processo de Avaliação por Anexo de E-mail é selecionado em Gerenciamento > Configurações > Fluxo de Trabalho > Avaliação. (Caso contrário, veja REVIEW_REQUEST_SUBSEQUENT.)"
+
+msgid "emails.reviewCancel.description"
+msgstr "Este e-mail é enviado pelo Editor de Seção a um Avaliador que tem uma avaliação de Submissão de Trabalho em andamento para notificá-lo de que a avaliação foi cancelada."
+
+msgid "emails.reviewReinstate.description"
+msgstr "Este e-mail é enviado pelo Editor de Seção a um Avaliador que tem uma avaliação de Submissão de Trabalho em andamento para notificá-lo de que uma avaliação cancelada foi restabelecida."
+
+msgid "emails.reviewAck.subject"
+msgstr "Confirmação de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRemind.subject"
+msgstr "Lembrete de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRemindOneclick.subject"
+msgstr "Lembrete de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRemindAuto.subject"
+msgstr "Lembrete Automatizado de Avaliação de Submissão de Trabalho"
+
+msgid "emails.reviewRemindAutoOneclick.subject"
+msgstr "Lembrete Automatizado de Avaliação de Submissão de Trabalho"
+
+msgid "emails.editorDecisionAccept.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de uma decisão final de \"aceitar submissão\" referente à sua Submissão de Trabalho."
+
+msgid "emails.editorDecisionSendToExternal.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de que sua Submissão de Trabalho está sendo enviada para avaliação externa."
+
+msgid "emails.editorDecisionSendToProduction.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de que sua Submissão de Trabalho está sendo enviada para produção."
+
+msgid "emails.editorDecisionRevisions.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de uma decisão final de \"revisões necessárias\" referente à sua Submissão de Trabalho."
+
+msgid "emails.editorDecisionResubmit.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de uma decisão final de \"reenviar\" referente à sua Submissão de Trabalho."
+
+msgid "emails.editorDecisionDecline.description"
+msgstr "Este e-mail do Editor ou Editor de Seção para um Autor notifica-o de uma decisão final de \"recusar\" referente à sua Submissão de Trabalho."
+
+msgid "emails.editorRecommendation.description"
+msgstr "Este e-mail do Editor ou Editor de Seção recomendador para os Editores ou Editores de Seção tomadores de decisão notifica-os de uma recomendação final referente à Submissão de Trabalho."
+
+msgid "emails.copyeditRequest.description"
+msgstr "Este e-mail é enviado por um Editor de Seção ao Revisor de Texto da submissão para solicitar que ele inicie o processo de revisão de texto. Fornece informações sobre a Submissão de Trabalho e como acessá-la."
+
+msgid "emails.layoutRequest.description"
+msgstr "Este e-mail do Editor de Seção para o Editor de Diagramação notifica-o de que ele foi designado para a tarefa de realizar a diagramação de uma submissão. Fornece informações sobre a Submissão de Trabalho e como acessá-la."
+
+msgid "emails.emailLink.subject"
+msgstr "Submissão de Trabalho de Possível Interesse"
+
+msgid "emails.emailLink.body"
+msgstr "Achei que você poderia estar interessado em ver &quot;{$submissionTitle}&quot; por {$authorName} publicado no Vol {$volume}, Nº {$number} ({$year}) de {$contextName} em &quot;{$submissionUrl}&quot;."
+
+msgid "emails.emailLink.description"
+msgstr "Este modelo de e-mail fornece a um leitor cadastrado a oportunidade de enviar informações sobre uma Submissão de Trabalho para alguém que possa estar interessado. Está disponível através das Ferramentas de Leitura e deve ser ativado pelo Gestor da Coleção de Anais na página de Administração das Ferramentas de Leitura."
+
+msgid "emails.subscriptionNotify.description"
+msgstr "Este e-mail notifica um leitor cadastrado de que o Gestor criou uma assinatura para ele. Fornece o URL da Coleção de Anais junto com instruções de acesso."
+
+msgid "emails.openAccessNotify.subject"
+msgstr "Volume dos Anais Agora em Acesso Aberto"
+
+msgid "emails.openAccessNotify.description"
+msgstr "Este e-mail é enviado aos leitores cadastrados que solicitaram receber um e-mail de notificação quando um Volume dos Anais se tornar de acesso aberto."
+
+msgid "emails.subscriptionBeforeExpiry.description"
+msgstr "Este e-mail notifica um assinante de que sua assinatura expirará em breve. Fornece o URL da Coleção de Anais junto com instruções de acesso."
+
+msgid "emails.subscriptionAfterExpiry.description"
+msgstr "Este e-mail notifica um assinante de que sua assinatura expirou. Fornece o URL da Coleção de Anais junto com instruções de acesso."
+
+msgid "emails.subscriptionAfterExpiryLast.description"
+msgstr "Este e-mail notifica um assinante de que sua assinatura expirou. Fornece o URL da Coleção de Anais junto com instruções de acesso."
+
+msgid "emails.revisedVersionNotify.description"
+msgstr "Este e-mail é enviado automaticamente ao editor designado quando o autor envia uma versão revisada de uma Submissão de Trabalho."
+
+msgid "emails.editorDecisionInitialDecline.description"
+msgstr "Este e-mail é enviado ao autor se o editor recusar sua Submissão de Trabalho inicialmente, antes da etapa de avaliação"
+
+msgid "emails.statisticsReportNotification.description"
+msgstr "Este e-mail é enviado mensalmente de forma automática aos editores e gestores da Coleção de Anais para fornecer uma visão geral da saúde do sistema."

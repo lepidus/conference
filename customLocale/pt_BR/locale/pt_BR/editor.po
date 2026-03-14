@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-13T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
+"Language: pt_BR\n"
+
+msgid "editor.submissionsAndPublishing"
+msgstr "Submissões de Trabalhos e Publicação"
+
+msgid "editor.submissionQueue"
+msgstr "Fila de Submissões de Trabalhos"
+
+msgid "editor.submissionArchive"
+msgstr "Arquivo de Submissões de Trabalhos"
+
+msgid "editor.publishedIssues"
+msgstr "Volumes dos Anais Publicados"
+
+msgid "editor.submissionArchive.noSubmissions"
+msgstr "Nenhuma Submissão de Trabalho no arquivo."
+
+msgid "editor.notifyUsers.includeToc"
+msgstr "Incluir o sumário deste Volume dos Anais:"
+
+msgid "editor.issues.createIssue"
+msgstr "Criar Volume dos Anais"
+
+msgid "editor.issues.editIssue"
+msgstr "Gerenciamento do Volume dos Anais: {$issueIdentification}"
+
+msgid "editor.issues.currentIssue"
+msgstr "Volume dos Anais Atual"
+
+msgid "editor.issues.noArticles"
+msgstr "Nenhum item está atualmente programado para este Volume dos Anais."
+
+msgid "editor.issues.confirmDelete"
+msgstr "Tem certeza de que deseja excluir permanentemente este Volume dos Anais?"
+
+msgid "editor.issues.titleRequired"
+msgstr "O título é obrigatório para o Volume dos Anais."
+
+msgid "editor.issues.issueIdentification"
+msgstr "Identificação do Volume dos Anais"
+
+msgid "editor.issues.publicIssueIdentifier"
+msgstr "Identificador público do Volume dos Anais"
+
+msgid "editor.issues.showCoverPage"
+msgstr "Criar uma capa para este Volume dos Anais com os seguintes elementos."
+
+msgid "editor.issues.issueData"
+msgstr "Dados do Volume dos Anais"
+
+msgid "editor.issues.publishIssue"
+msgstr "Publicar Volume dos Anais"
+
+msgid "editor.issues.unpublishIssue"
+msgstr "Cancelar Publicação do Volume dos Anais"
+
+msgid "editor.issues.previewIssue"
+msgstr "Visualizar Volume dos Anais"
+
+msgid "editor.issues.confirmPublish"
+msgstr "Tem certeza de que deseja publicar o novo Volume dos Anais?"
+
+msgid "editor.issues.confirmUnpublish"
+msgstr "Tem certeza de que deseja cancelar a publicação deste Volume dos Anais publicado?"
+
+msgid "editor.issues.confirmSetCurrentIssue"
+msgstr "Tem certeza de que deseja definir este Volume dos Anais como atual?"
+
+msgid "editor.issues.publicArticleIdExists"
+msgstr "Não foi possível salvar o ID público para a Submissão de Trabalho:"
+
+msgid "editor.issues.noLiveIssues"
+msgstr "Nenhum Volume dos Anais ativo"
+
+msgid "editor.issues.galleys"
+msgstr "Provas do Volume dos Anais"
+
+msgid "editor.issues.galley"
+msgstr "Prova do Volume dos Anais"
+
+msgid "editor.issues.viewingGalley"
+msgstr "Visualizando Prova do Volume dos Anais"
+
+msgid "editor.issues.issueGalleysDescription"
+msgstr "Publicar provas com o conteúdo completo do Volume dos Anais."
+
+msgid "editor.issues.noneIssueGalleys"
+msgstr "Nenhuma prova do Volume dos Anais foi publicada."
+
+msgid "editor.issues.galleyLabelRequired"
+msgstr "Um rótulo de prova do Volume dos Anais é obrigatório."
+
+msgid "editor.issues.galleyLocaleRequired"
+msgstr "Um idioma de prova do Volume dos Anais é obrigatório."
+
+msgid "editor.issues.galleyPublicIdentificationExists"
+msgstr "A identificação pública da prova do Volume dos Anais já existe."
+
+msgid "editor.issues.backToIssueGalleys"
+msgstr "Voltar para provas do Volume dos Anais"
+
+msgid "editor.issues.confirmDeleteGalley"
+msgstr "Tem certeza de que deseja excluir esta prova do Volume dos Anais?"
+
+msgid "editor.navigation.futureIssues"
+msgstr "Volumes dos Anais Futuros"
+
+msgid "grid.action.publish"
+msgstr "Publicar Volume dos Anais"
+
+msgid "grid.action.addIssue"
+msgstr "Criar Volume dos Anais"
+
+msgid "grid.action.addIssueGalley"
+msgstr "Criar Prova do Volume dos Anais"
+
+msgid "grid.action.setCurrentIssue"
+msgstr "Definir Volume dos Anais como Atual"
+
+msgid "editor.navigation.issueArchive"
+msgstr "Volumes dos Anais Anteriores"
+
+msgid "editor.submissions.noSubmissions"
+msgstr "Nenhuma Submissão de Trabalho"
+
+msgid "issues.submissions.issueIds"
+msgstr "Atribuído ao Volume dos Anais"
+
+msgid "grid.action.removeArticle"
+msgstr "Remover Submissão de Trabalho do Volume dos Anais"
+
+msgid "editor.issues.editIssueGalley"
+msgstr "Editar Prova do Volume dos Anais"

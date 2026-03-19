@@ -15,7 +15,7 @@ msgid "submission.submit.title"
 msgstr "Submeter um Trabalho para os Anais"
 
 msgid "submission.submit.userGroupDescription"
-msgstr "Escolha a capacidade sob a qual você está submetendo este Trabalho."
+msgstr "Escolha o papel sob o qual você está submetendo este Trabalho."
 
 msgid "submission.upload.selectComponent"
 msgstr "Selecionar componente da Submissão de Trabalho"
@@ -84,19 +84,19 @@ msgid "publication.publishedIn"
 msgstr "Publicado em <a href=\"{$issueUrl}\">{$issueTitle}</a>."
 
 msgid "publication.scheduledIn"
-msgstr "Programado para publicação em <a href=\"{$issueUrl}\">{$journalTitle}</a>."
+msgstr "Agendado para publicação em <a href=\"{$issueUrl}\">{$journalTitle}</a>."
 
 msgid "publication.unscheduledIn"
-msgstr "Este trabalho não foi programado para publicação em um Volume dos Anais."
+msgstr "Este trabalho não foi agendado para publicação em um Volume dos Anais."
 
 msgid "publication.selectIssue"
-msgstr "Selecione um Volume dos Anais para programar a publicação"
+msgstr "Selecione um Volume dos Anais para agendar a publicação"
 
 msgid "publication.event.published"
 msgstr "A Submissão de Trabalho foi publicada."
 
 msgid "publication.event.scheduled"
-msgstr "A Submissão de Trabalho foi programada para publicação."
+msgstr "A Submissão de Trabalho foi agendada para publicação."
 
 msgid "publication.event.unpublished"
 msgstr "A Submissão de Trabalho foi despublicada."

@@ -39,7 +39,7 @@ msgid "editor.issues.currentIssue"
 msgstr "Volume dos Anais Atual"
 
 msgid "editor.issues.noArticles"
-msgstr "Nenhum item está atualmente programado para este Volume dos Anais."
+msgstr "Nenhum item está atualmente agendado para este Volume dos Anais."
 
 msgid "editor.issues.confirmDelete"
 msgstr "Tem certeza de que deseja excluir permanentemente este Volume dos Anais?"

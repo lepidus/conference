@@ -11,6 +11,423 @@ msgstr ""
 "PO-Revision-Date: 2026-03-13T00:00:00+00:00\n"
 "Language: pt_BR\n"
 
+msgid "user.authorization.journalDoesNotPublish"
+msgstr "Esta Coleção de Anais não publica seu conteúdo online."
+
+msgid "context.current"
+msgstr "Coleção de Anais Atual:"
+
+msgid "context.select"
+msgstr "Mudar para outra Coleção de Anais:"
+
+msgid "common.software"
+msgstr "Open Journal Systems"
+
+msgid "common.journalHomepageImage.altText"
+msgstr "Imagem da Página Inicial da Coleção de Anais"
+
+msgid "navigation.journalHelp"
+msgstr "Ajuda da Coleção de Anais"
+
+msgid "navigation.otherJournals"
+msgstr "Outras Coleções de Anais"
+
+msgid "navigation.browseByIssue"
+msgstr "Por Volume dos Anais"
+
+msgid "navigation.skip.about"
+msgstr "Pular para sobre a Coleção de Anais"
+
+msgid "navigation.skip.issue"
+msgstr "Pular para o Volume dos Anais atual"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "Submissões em edição"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "Submissões em avaliação"
+
+msgid "section.abbreviation.example"
+msgstr "(Por exemplo, Trabalhos=ART)"
+
+msgid "article.article"
+msgstr "Trabalho"
+
+msgid "article.articles"
+msgstr "Trabalhos"
+
+msgid "common.publication"
+msgstr "Publicação"
+
+msgid "common.publications"
+msgstr "Publicações"
+
+msgid "article.submissionId"
+msgstr "ID da submissão"
+
+msgid "article.journalSection"
+msgstr "Seção da Coleção de Anais"
+
+msgid "article.submission"
+msgstr "Submissão"
+
+msgid "article.submissions"
+msgstr "Submissões"
+
+msgid "article.return"
+msgstr "Retornar aos detalhes da submissão"
+
+msgid "submission.submissionEditing"
+msgstr "Edição da submissão"
+
+msgid "submission.scheduledIn"
+msgstr "Agendado para publicação em {$issueName}."
+
+msgid "submission.search"
+msgstr "Busca de submissão"
+
+msgid "journal.currentIssue"
+msgstr "Volume dos Anais atual"
+
+msgid "context.contexts"
+msgstr "Coleções de Anais"
+
+msgid "context.context"
+msgstr "Coleção de Anais"
+
+msgid "journal.viewAllIssues"
+msgstr "Ver Todos os Volumes dos Anais"
+
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "Incluir usuários sem funções nesta Coleção de Anais."
+
+msgid "user.showAllJournals"
+msgstr "Mostrar Minhas Coleções de Anais"
+
+msgid "user.registerForOtherJournals"
+msgstr "Cadastrar-se em Outras Coleções de Anais"
+
+msgid "user.reviewerPrompt"
+msgstr "Você estaria disposto a avaliar Submissões de Trabalhos para esta Coleção de Anais?"
+
+msgid "user.register.contextsPrompt"
+msgstr "Com quais Coleções de Anais neste site você gostaria de se cadastrar?"
+
+msgid "user.myJournals"
+msgstr "Minhas Coleções de Anais"
+
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "Submeter um Trabalho: o cadastro de autor está atualmente desativado."
+
+msgid "user.role.manager"
+msgstr "Gestor da Coleção de Anais"
+
+msgid "user.role.managers"
+msgstr "Gestores da Coleção de Anais"
+
+msgid "user.role.journalAssistant"
+msgstr "Assistente da Coleção de Anais"
+
+msgid "user.role.journalAssistants"
+msgstr "Assistentes da Coleção de Anais"
+
+msgid "issue.issue"
+msgstr "Volume dos Anais"
+
+msgid "issue.issues"
+msgstr "Volumes dos Anais"
+
+msgid "issue.noIssues"
+msgstr "Nenhum Volume dos Anais"
+
+msgid "issue.fullIssue"
+msgstr "Volume Completo dos Anais"
+
+msgid "issue.nonpdf.title"
+msgstr "Download do Volume dos Anais"
+
+msgid "issue.viewIssue"
+msgstr "Ver Volume dos Anais"
+
+msgid "issue.return"
+msgstr "Retornar aos Detalhes do Volume dos Anais"
+
+msgid "submission.event.general.defaultEvent"
+msgstr "Evento de submissão"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Submissão submetida"
+
+msgid "submission.event.general.issueScheduled"
+msgstr "Submissão enviada para a fila de agendamento do Volume dos Anais"
+
+msgid "submission.event.general.issueAssigned"
+msgstr "Submissão atribuída ao Volume dos Anais"
+
+msgid "submission.event.general.articlePublished"
+msgstr "Trabalho publicado"
+
+msgid "submission.event.editor.editorAssigned"
+msgstr "Editor designado para a submissão"
+
+msgid "submission.event.editor.editorUnassigned"
+msgstr "Editor desvinculado da submissão"
+
+msgid "submission.event.editor.submissionArchived"
+msgstr "Submissão enviada para arquivo"
+
+msgid "submission.event.editor.submissionRestored"
+msgstr "Submissão restaurada do arquivo"
+
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "Revisor de texto designado para a submissão"
+
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "Revisor de texto desvinculado da submissão"
+
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "Revisor de provas designado para a submissão"
+
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "Revisor de provas desvinculado da submissão"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "Editor de diagramação designado para a submissão"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "Editor de diagramação desvinculado da submissão"
+
+msgid "comments.commentsOnArticle"
+msgstr "Comentários sobre este trabalho"
+
+msgid "search.results.orderBy.article"
+msgstr "Título do trabalho"
+
+msgid "search.results.orderBy.issue"
+msgstr "Volume dos Anais"
+
+msgid "search.results.orderBy.journal"
+msgstr "Título da Coleção de Anais"
+
+msgid "plugins.categories.viewableFiles"
+msgstr "Plugins de prova de submissão"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "Nenhuma submissão designada."
+
+msgid "sectionEditor.regrets.title"
+msgstr "#{$submissionId} Recusas de avaliador, cancelamentos e rodadas anteriores"
+
+msgid "reviewer.pendingReviews"
+msgstr "Submissões pendentes de avaliação"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "Editor da submissão"
+
+msgid "reviewer.article.decision.accept"
+msgstr "Aceitar submissão"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Recusar submissão"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "Submissão a ser avaliada"
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "Notificar o editor da submissão"
+
+msgid "reviewer.article.enterReviewA"
+msgstr "Clique no ícone para inserir (ou colar) sua avaliação desta submissão."
+
+msgid "submission.logType.article"
+msgstr "Trabalho"
+
+msgid "user.register.selectContext"
+msgstr "Selecione uma Coleção de Anais para se cadastrar:"
+
+msgid "user.register.noJournals"
+msgstr "Não há Coleções de Anais com as quais você possa se cadastrar neste site."
+
+msgid "user.register.registrationDisabled"
+msgstr "Esta Coleção de Anais não está aceitando cadastros de usuários no momento."
+
+msgid "user.register.readerDescription"
+msgstr "Notificado por e-mail na publicação de um Volume dos Anais da Coleção de Anais."
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr "Notificado por e-mail quando um Volume dos Anais da Coleção de Anais é tornado de acesso aberto."
+
+msgid "user.register.authorDescription"
+msgstr "Capaz de submeter itens à Coleção de Anais."
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "Disposto a realizar revisão por pares de submissões para a Coleção de Anais."
+
+msgid "user.register.reviewerDescription"
+msgstr "Disposto a realizar revisão por pares de submissões para o site."
+
+msgid "search.searchFor"
+msgstr "Buscar trabalhos por"
+
+msgid "search.allJournals"
+msgstr "Todas as Coleções de Anais"
+
+msgid "article.nonpdf.title"
+msgstr "Download de trabalho"
+
+msgid "current.noCurrentIssue"
+msgstr "Nenhum Volume dos Anais atual"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "Esta Coleção de Anais não publicou nenhum Volume dos Anais."
+
+msgid "archive.browse"
+msgstr "Navegar pelos Volumes dos Anais mais antigos"
+
+msgid "archive.issueUnavailable"
+msgstr "Volume dos Anais Indisponível"
+
+msgid "about.aboutContext"
+msgstr "Sobre a Coleção de Anais"
+
+msgid "about.history"
+msgstr "Histórico da Coleção de Anais"
+
+msgid "about.submissions"
+msgstr "Submissões de Trabalhos"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "{$login} ou {$register} para fazer uma submissão."
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} ou {$viewSubmissions}."
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "Fazer uma nova submissão para a seção <a href=\"{$url}\">{$name}</a>."
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "Fazer uma nova submissão"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "ver suas submissões pendentes"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "Lista de verificação de preparação de submissão"
+
+msgid "about.authorFeesMessage"
+msgstr "Esta Coleção de Anais cobra as seguintes taxas de autor."
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "mês(es) após um Volume dos Anais ser publicado."
+
+msgid "about.aboutSoftware"
+msgstr "Sobre Open Conference Proceedings Series Systems"
+
+msgid "help.ojsHelp"
+msgstr "Ajuda do Open Conference Proceedings Series Systems"
+
+msgid "payment.type.submission"
+msgstr "Taxa de submissão"
+
+msgid "payment.type.purchaseArticle"
+msgstr "Taxa de compra de trabalho"
+
+msgid "payment.type.purchaseIssue"
+msgstr "Taxa de compra de Volume dos Anais"
+
+msgid "payment.submission.paySubmission"
+msgstr "Pagar taxa de submissão"
+
+msgid "installer.installApplication"
+msgstr "Instalar Open Conference Proceedings Series Systems"
+
+msgid "installer.upgradeApplication"
+msgstr "Atualizar Open Conference Proceedings Series Systems"
+
+msgid "log.review.resubmit"
+msgstr "A submissão {$submissionId} foi reenviada para avaliação."
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "Uma versão do revisor de texto do arquivo de submissão foi enviada."
+
+msgid "log.editor.metadataModified"
+msgstr "Os metadados deste trabalho foram modificados por {$editorName}."
+
+msgid "log.editor.editorFile"
+msgstr "Uma versão do editor do arquivo de submissão foi enviada."
+
+msgid "log.editor.archived"
+msgstr "A submissão {$submissionId} foi arquivada."
+
+msgid "log.editor.restored"
+msgstr "A submissão {$submissionId} foi restaurada para a fila."
+
+msgid "log.proofread.complete"
+msgstr "{$proofreaderName} enviou {$submissionId} para agendamento."
+
+msgid "log.imported"
+msgstr "{$userName} importou a submissão {$submissionId}."
+
+msgid "metadata.pkp.peerReviewed"
+msgstr "Trabalho revisado por pares"
+
+msgid "notification.type.submissionSubmitted"
+msgstr "Um novo trabalho, \"{$title},\" foi submetido."
+
+msgid "notification.type.issuePublished"
+msgstr "Um Volume dos Anais foi publicado."
+
+msgid "notification.type.submissions"
+msgstr "Eventos de submissão"
+
+msgid "notification.savedIssueMetadata"
+msgstr "Metadados de publicação do Volume dos Anais salvos."
+
+msgid "user.authorization.noContext"
+msgstr "Nenhuma Coleção de Anais no contexto!"
+
+msgid "user.authorization.sectionAssignment"
+msgstr "Você está tentando acessar uma submissão que não faz parte de sua seção."
+
+msgid "user.authorization.invalidIssue"
+msgstr "Volume dos Anais inválido solicitado!"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr "Submissão de revisor de texto inválida ou nenhuma submissão de revisor de texto solicitada!"
+
+msgid "grid.action.createContext"
+msgstr "Criar uma Nova Coleção de Anais"
+
+msgid "editor.navigation.issues"
+msgstr "Volumes dos Anais"
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "Cadastrar-se em outras Coleções de Anais"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "Ocultar outras Coleções de Anais"
+
+msgid "article.view.interstitial"
+msgstr "Por favor, escolha um arquivo de trabalho para baixar."
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "Indexando \"{$journalName}\""
+
+msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
+msgstr "Esta implementação de busca não permite reindexação por Coleção de Anais."
+
+msgid "editor.issues.backIssues"
+msgstr "Volumes Anteriores dos Anais"
+
+msgid "editor.issues.futureIssues"
+msgstr "Próximos Volumes dos Anais"
+
+msgid "catalog.sortBy"
+msgstr "Ordenação dos trabalhos"
+
+msgid "catalog.sortBy.categoryDescription"
+msgstr "Escolha como ordenar os trabalhos nesta categoria."
+
 msgid "plugins.generic.conference.metadata.conferenceDate.title"
 msgstr "Datas do Evento"
 

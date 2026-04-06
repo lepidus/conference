@@ -12,10 +12,10 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "user.login.registrationComplete.manageSubmissions"
-msgstr "Visualizar Submissões de Trabalhos"
+msgstr "Visualizar Submissões"
 
 msgid "user.login.registrationComplete.newSubmission"
-msgstr "Fazer uma Nova Submissão de Trabalho"
+msgstr "Fazer uma Nova submissão"
 
 msgid "user.profile.form.openAccessNotifications"
 msgstr "Notificações por e-mail de acesso aberto de Volumes dos Anais"

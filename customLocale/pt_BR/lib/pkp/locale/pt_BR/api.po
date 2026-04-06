@@ -15,16 +15,16 @@ msgid "api.publicFiles.500.badFilesDir"
 msgstr "O diretório de arquivos públicos não foi encontrado ou arquivos não podem ser salvos nele. Por favor, entre em contato com seu administrador para resolver este Volume dos Anais."
 
 msgid "api.submissionFiles.400.badDependentFileAssocType"
-msgstr "Você não pode associar um arquivo desta etapa de arquivo com outro arquivo de Submissão de Trabalho."
+msgstr "Você não pode associar um arquivo deste estágio do fluxo com outro arquivo de submissão."
 
 msgid "api.submissionFiles.400.reviewRoundSubmissionNotMatch"
-msgstr "A rodada de avaliação que você forneceu não faz parte desta Submissão de Trabalho."
+msgstr "A rodada de avaliação que você forneceu não faz parte desta submissão."
 
 msgid "api.submissions.403.deleteSubmissionOutOfContext"
-msgstr "Você não pode excluir uma Submissão de Trabalho que não está atribuída a este contexto."
+msgstr "Você não pode excluir uma submissão que não está atribuída a este contexto."
 
 msgid "api.submissions.403.requestedOthersUnpublishedSubmissions"
-msgstr "Você só pode visualizar Submissões de Trabalhos não publicadas às quais você foi designado."
+msgstr "Você só pode visualizar Submissões não publicadas às quais você foi designado."
 
 msgid "api.submissions.403.unauthorizedDeleteSubmission"
-msgstr "Você não tem permissão para excluir esta Submissão de Trabalho."
+msgstr "Você não tem permissão para excluir esta submissão."

@@ -12,19 +12,19 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "editor.submissionsAndPublishing"
-msgstr "Submissões de Trabalhos e Publicação"
+msgstr "Submissões e publicação"
 
 msgid "editor.submissionQueue"
-msgstr "Fila de Submissões de Trabalhos"
+msgstr "Fila de submissões"
 
 msgid "editor.submissionArchive"
-msgstr "Arquivo de Submissões de Trabalhos"
+msgstr "Arquivo de submissões"
 
 msgid "editor.publishedIssues"
-msgstr "Volumes dos Anais Publicados"
+msgstr "Volumes dos Anais publicados"
 
 msgid "editor.submissionArchive.noSubmissions"
-msgstr "Nenhuma Submissão de Trabalho no arquivo."
+msgstr "Nenhuma submissão no arquivo."
 
 msgid "editor.notifyUsers.includeToc"
 msgstr "Incluir o sumário deste Volume dos Anais:"
@@ -36,7 +36,7 @@ msgid "editor.issues.editIssue"
 msgstr "Gerenciamento do Volume dos Anais: {$issueIdentification}"
 
 msgid "editor.issues.currentIssue"
-msgstr "Volume dos Anais Atual"
+msgstr "Volume atual dos Anais"
 
 msgid "editor.issues.noArticles"
 msgstr "Nenhum item está atualmente agendado para este Volume dos Anais."
@@ -63,7 +63,7 @@ msgid "editor.issues.publishIssue"
 msgstr "Publicar Volume dos Anais"
 
 msgid "editor.issues.unpublishIssue"
-msgstr "Cancelar Publicação do Volume dos Anais"
+msgstr "Cancelar publicação do Volume dos Anais"
 
 msgid "editor.issues.previewIssue"
 msgstr "Visualizar Volume dos Anais"
@@ -78,7 +78,7 @@ msgid "editor.issues.confirmSetCurrentIssue"
 msgstr "Tem certeza de que deseja definir este Volume dos Anais como atual?"
 
 msgid "editor.issues.publicArticleIdExists"
-msgstr "Não foi possível salvar o ID público para a Submissão de Trabalho:"
+msgstr "Não foi possível salvar o ID público para a submissão:"
 
 msgid "editor.issues.noLiveIssues"
 msgstr "Nenhum Volume dos Anais ativo"
@@ -90,7 +90,7 @@ msgid "editor.issues.galley"
 msgstr "Prova do Volume dos Anais"
 
 msgid "editor.issues.viewingGalley"
-msgstr "Visualizando Prova do Volume dos Anais"
+msgstr "Visualizando prova do Volume dos Anais"
 
 msgid "editor.issues.issueGalleysDescription"
 msgstr "Publicar provas com o conteúdo completo do Volume dos Anais."
@@ -114,7 +114,7 @@ msgid "editor.issues.confirmDeleteGalley"
 msgstr "Tem certeza de que deseja excluir esta prova do Volume dos Anais?"
 
 msgid "editor.navigation.futureIssues"
-msgstr "Volumes dos Anais Futuros"
+msgstr "Próximos Volumes dos Anais"
 
 msgid "grid.action.publish"
 msgstr "Publicar Volume dos Anais"
@@ -123,22 +123,22 @@ msgid "grid.action.addIssue"
 msgstr "Criar Volume dos Anais"
 
 msgid "grid.action.addIssueGalley"
-msgstr "Criar Prova do Volume dos Anais"
+msgstr "Criar prova do Volume dos Anais"
 
 msgid "grid.action.setCurrentIssue"
-msgstr "Definir Volume dos Anais como Atual"
+msgstr "Definir Volume dos Anais como atual"
 
 msgid "editor.navigation.issueArchive"
-msgstr "Volumes dos Anais Anteriores"
+msgstr "Volumes Anteriores dos Anais"
 
 msgid "editor.submissions.noSubmissions"
-msgstr "Nenhuma Submissão de Trabalho"
+msgstr "Nenhuma submissão"
 
 msgid "issues.submissions.issueIds"
 msgstr "Atribuído ao Volume dos Anais"
 
 msgid "grid.action.removeArticle"
-msgstr "Remover Submissão de Trabalho do Volume dos Anais"
+msgstr "Remover trabalho do Volume dos Anais"
 
 msgid "editor.issues.editIssueGalley"
-msgstr "Editar Prova do Volume dos Anais"
+msgstr "Editar prova do Volume dos Anais"

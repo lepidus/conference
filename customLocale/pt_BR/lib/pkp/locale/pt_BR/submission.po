@@ -12,19 +12,19 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "submission.submit.contactConsentDescription"
-msgstr "Sim, gostaria de ser contatado sobre esta Submissão de Trabalho."
+msgstr "Sim, gostaria de ser contatado sobre esta submissão."
 
 msgid "submission.submit.submissionChecklist"
-msgstr "Requisitos de Submissão de Trabalho"
+msgstr "Requisitos de submissão"
 
 msgid "submission.submit.submissionComplete"
-msgstr "Submissão de Trabalho concluída"
+msgstr "submissão concluída"
 
 msgid "submission.submit.whatNext.review"
-msgstr "Revisar esta Submissão de Trabalho"
+msgstr "Revisar esta submissão"
 
 msgid "submission.submit.whatNext.create"
-msgstr "Criar uma nova Submissão de Trabalho"
+msgstr "Criar uma nova submissão"
 
 msgid "metadata.property.displayName.article-title"
 msgstr "Título do Trabalho/Paper"
@@ -39,157 +39,157 @@ msgid "metadata.property.validationMessage.issue"
 msgstr "Por favor, insira um Volume dos Anais válido."
 
 msgid "common.queue.long.submissionsArchived"
-msgstr "Submissões de Trabalhos Arquivadas"
+msgstr "Submissões Arquivadas"
 
 msgid "submission.backToSubmissionEditing"
-msgstr "Voltar para Edição de Submissão de Trabalho"
+msgstr "Voltar para Edição de submissão"
 
 msgid "submission.email.confirmClearLog"
-msgstr "Tem certeza de que deseja limpar o registro de e-mail para esta Submissão de Trabalho?"
+msgstr "Tem certeza de que deseja limpar o registro de e-mail para esta submissão?"
 
 msgid "submission.event.confirmClearLog"
-msgstr "Tem certeza de que deseja limpar o registro de eventos para esta Submissão de Trabalho?"
+msgstr "Tem certeza de que deseja limpar o registro de eventos para esta submissão?"
 
 msgid "submission.event.submissionSubmitted"
-msgstr "Submissão de Trabalho inicial concluída."
+msgstr "submissão inicial concluída."
 
 msgid "submission.event.fileRevised"
 msgstr "A revisão \"{$name}\" foi enviada para o arquivo {$submissionFileId}."
 
 msgid "submission.event.general.metadataUpdated"
-msgstr "Metadados da Submissão de Trabalho atualizados"
+msgstr "Metadados da submissão atualizados"
 
 msgid "submission.event.general.suppFileUpdated"
-msgstr "Arquivo de Submissão de Trabalho atualizado"
+msgstr "Arquivo de submissão atualizado"
 
 msgid "submission.event.reviewer.reviewerAssigned"
-msgstr "Avaliador designado para Submissão de Trabalho"
+msgstr "Avaliador designado para submissão"
 
 msgid "submission.event.reviewer.reviewerUnassigned"
-msgstr "Avaliador desdesignado da Submissão de Trabalho"
+msgstr "Avaliador desdesignado da submissão"
 
 msgid "submission.history.submissionNotes"
-msgstr "Notas de Submissão de Trabalho"
+msgstr "Notas de submissão"
 
 msgid "submission.informationCenter.submissionInfo"
-msgstr "Informações da Submissão de Trabalho"
+msgstr "Informações da submissão"
 
 msgid "submission.layout.viewingGalley"
-msgstr "Visualizando Prova de Submissão de Trabalho"
+msgstr "Visualizando Prova de submissão"
 
 msgid "submission.metadata"
-msgstr "Metadados da Submissão de Trabalho"
+msgstr "Metadados da submissão"
 
 msgid "submission.notes.backToSubmissionNotes"
-msgstr "Voltar Para Notas de Submissão de Trabalho"
+msgstr "Voltar Para Notas de submissão"
 
 msgid "submission.notes.confirmDeleteAll"
-msgstr "Remover Todas as Notas de Submissão de Trabalho?"
+msgstr "Remover Todas as Notas de submissão?"
 
 msgid "submission.notes.confirmDelete"
-msgstr "Remover Esta Nota de Submissão de Trabalho?"
+msgstr "Remover Esta Nota de submissão?"
 
 msgid "submission.notes.noSubmissionNotes"
-msgstr "Nenhuma Nota de Submissão de Trabalho"
+msgstr "Nenhuma Nota de submissão"
 
 msgid "submission.notes"
-msgstr "Notas de Submissão de Trabalho"
+msgstr "Notas de submissão"
 
 msgid "submissions.noSubmissions"
-msgstr "Nenhuma Submissão de Trabalho"
+msgstr "Nenhuma submissão"
 
 msgid "submissions.queuedUnassigned"
-msgstr "Nenhum editor foi designado para esta Submissão de Trabalho."
+msgstr "Nenhum editor foi designado para esta submissão."
 
 msgid "submission.submission"
-msgstr "Submissão de Trabalho"
+msgstr "submissão"
 
 msgid "submission.submissionTitle"
-msgstr "Título da Submissão de Trabalho:"
+msgstr "Título da submissão:"
 
 msgid "submission.submissionHistory"
-msgstr "Histórico de Submissão de Trabalho"
+msgstr "Histórico de submissão"
 
 msgid "submission.submissionManuscript"
-msgstr "Manuscrito de Submissão de Trabalho"
+msgstr "Manuscrito de submissão"
 
 msgid "submission.submissionReview"
-msgstr "Avaliação de Submissão de Trabalho"
+msgstr "Avaliação de submissão"
 
 msgid "submission.submit.finishSubmission"
-msgstr "Finalizar Submissão de Trabalho"
+msgstr "Finalizar submissão"
 
 msgid "submission.submit.submissionLocale"
-msgstr "Idioma da Submissão de Trabalho"
+msgstr "Idioma da submissão"
 
 msgid "submission.submit.submissionFiles"
-msgstr "Arquivos de Submissão de Trabalho"
+msgstr "Arquivos de submissão"
 
 msgid "submission.submit.uploadSubmissionFile"
-msgstr "Enviar Arquivo de Submissão de Trabalho"
+msgstr "Enviar Arquivo de submissão"
 
 msgid "submission.upload.libraryCategory"
-msgstr "Categoria de Documento de Submissão de Trabalho"
+msgstr "Categoria de Documento de submissão"
 
 msgid "editor.submission.roundStatus.resubmitForReview"
-msgstr "A Submissão de Trabalho deve ser reenviada para outra rodada de avaliação."
+msgstr "A submissão deve ser reenviada para outra rodada de avaliação."
 
 msgid "editor.submission.roundStatus.submissionResubmitted"
-msgstr "A Submissão de Trabalho foi reenviada para outra rodada de avaliação."
+msgstr "A submissão foi reenviada para outra rodada de avaliação."
 
 msgid "editor.submission.roundStatus.accepted"
-msgstr "Submissão de Trabalho aceita."
+msgstr "submissão aceita."
 
 msgid "editor.submission.roundStatus.declined"
-msgstr "Submissão de Trabalho recusada."
+msgstr "submissão recusada."
 
 msgid "editor.submission.decision.accept"
-msgstr "Aceitar Submissão de Trabalho"
+msgstr "Aceitar submissão"
 
 msgid "editor.submission.decision.decline"
-msgstr "Recusar Submissão de Trabalho"
+msgstr "Recusar submissão"
 
 msgid "editor.submission.recommendation.description"
-msgstr "Recomendar uma decisão editorial para esta Submissão de Trabalho."
+msgstr "Recomendar uma decisão editorial para esta submissão."
 
 msgid "submission.overview"
-msgstr "Visão Geral da Submissão de Trabalho"
+msgstr "Visão Geral da submissão"
 
 msgid "submission.documents"
-msgstr "Documentos de Submissão de Trabalho"
+msgstr "Documentos de submissão"
 
 msgid "notification.type.editorAssign"
-msgstr "Você foi designado como editor para a Submissão de Trabalho \"{$title}\"."
+msgstr "Você foi designado como editor para a submissão \"{$title}\"."
 
 msgid "notification.type.editorDecisionAccept"
-msgstr "Submissão de Trabalho aceita."
+msgstr "submissão aceita."
 
 msgid "notification.type.editorDecisionDecline"
-msgstr "Submissão de Trabalho recusada."
+msgstr "submissão recusada."
 
 msgid "notification.type.editorDecisionRevertDecline"
-msgstr "Submissão de Trabalho recusada reativada."
+msgstr "submissão recusada reativada."
 
 msgid "notification.type.submissionNewVersion"
-msgstr "Uma nova versão de uma Submissão de Trabalho foi criada"
+msgstr "Uma nova versão de uma submissão foi criada"
 
 msgid "notification.type.revertDecline"
-msgstr "A decisão de recusar esta Submissão de Trabalho foi revertida."
+msgstr "A decisão de recusar esta submissão foi revertida."
 
 msgid "grid.action.itemWorkflow"
-msgstr "Ir para o fluxo de trabalho desta Submissão de Trabalho"
+msgstr "Ir para o fluxo de trabalho desta submissão"
 
 msgid "submission.attachPermissions"
-msgstr "Anexar as seguintes permissões à Submissão de Trabalho:"
+msgstr "Anexar as seguintes permissões à submissão:"
 
 msgid "submission.list.empty"
-msgstr "Nenhuma Submissão de Trabalho encontrada."
+msgstr "Nenhuma submissão encontrada."
 
 msgid "submission.list.confirmDelete"
-msgstr "Excluir Submissão de Trabalho?"
+msgstr "Excluir submissão?"
 
 msgid "submission.list.viewSubmission"
-msgstr "Visualizar Submissão de Trabalho"
+msgstr "Visualizar submissão"
 
 msgid "submission.list.incompleteSubmissionNotice"
-msgstr "Esta Submissão de Trabalho deve ser concluída antes que um editor a revise."
+msgstr "Esta submissão deve ser concluída antes que um editor a revise."

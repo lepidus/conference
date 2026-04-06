@@ -12,4 +12,4 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "admin.scheduledTask.publishSubmissions"
-msgstr "Publicar Submissões de Trabalhos agendadas para publicação"
+msgstr "Publicar Submissões agendadas para publicação"

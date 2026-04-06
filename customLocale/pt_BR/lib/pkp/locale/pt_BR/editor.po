@@ -12,19 +12,19 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "editor.submissionArchive.confirmDelete"
-msgstr "Tem certeza de que deseja excluir permanentemente esta Submissão de Trabalho?"
+msgstr "Tem certeza de que deseja excluir permanentemente esta submissão?"
 
 msgid "editor.submission.workflowDecision.submission.declined"
-msgstr "Submissão de Trabalho recusada."
+msgstr "Submissão recusada."
 
 msgid "editor.submission.workflowDecision.submission.accepted"
-msgstr "Submissão de Trabalho aceita."
+msgstr "Submissão aceita."
 
 msgid "editor.submission.workflowDecision.submission.published"
-msgstr "Submissão de Trabalho publicada."
+msgstr "Submissão publicada."
 
 msgid "editor.submission.workflowDecision.submission.underReview"
-msgstr "Submissão de Trabalho aceita para avaliação."
+msgstr "Submissão aceita para avaliação."
 
 msgid "reviewer.list.currentlyAssigned"
-msgstr "Este avaliador já foi designado para avaliar esta Submissão de Trabalho."
+msgstr "Este avaliador já foi designado para avaliar esta submissão."

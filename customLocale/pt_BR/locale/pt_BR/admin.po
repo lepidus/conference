@@ -38,11 +38,8 @@ msgstr "Ativar esta Coleção de Anais para exibição pública no site"
 msgid "admin.contexts.contextDescription"
 msgstr "Descrição da Coleção de Anais"
 
-msgid "admin.journals.transcode"
-msgstr "Transcodificar metadados de Submissões de ISO8859-1"
-
 msgid "admin.journals.pathImportInstructions"
 msgstr "Caminho da Coleção de Anais existente ou caminho a ser criado (ex.: \"ojs\")."
 
-msgid "admin.contexts.create"
-msgstr "Criar Coleção de Anais"
+msgid "admin.journals.transcode"
+msgstr "Transcodificar metadados de Submissões de ISO8859-1"

@@ -12,10 +12,10 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "section.default.title"
-msgstr "Trabalhos dos Anais"
+msgstr "Trabalhos"
 
 msgid "default.genres.article"
-msgstr "Texto de Trabalho dos Anais"
+msgstr "Texto de trabalho"
 
 msgid "default.contextSettings.checklist.notPreviouslyPublished"
 msgstr "O Trabalho não foi publicado anteriormente, nem está sob consideração de outra Coleção de Anais (ou uma explicação foi fornecida em Comentários ao Editor)."

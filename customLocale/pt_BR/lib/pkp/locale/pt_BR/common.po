@@ -12,16 +12,16 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "navigation.submissions"
-msgstr "Submissões de Trabalhos"
+msgstr "Submissões"
 
 msgid "notification.removedSubmission"
-msgstr "Submissão de Trabalho removida."
+msgstr "submissão removida."
 
 msgid "notification.savedSubmissionMetadata"
-msgstr "Metadados da Submissão de Trabalho salvos."
+msgstr "Metadados da submissão salvos."
 
 msgid "search.cli.rebuildIndex.result"
-msgstr "{$numIndexed} Trabalhos dos Anais indexados"
+msgstr "{$numIndexed} trabalhos indexados"
 
 msgid "user.authorization.invalidSubmission"
-msgstr "Submissão de Trabalho inválida."
+msgstr "submissão inválida."

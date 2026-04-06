@@ -12,172 +12,172 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "manager.genres.alertDelete"
-msgstr "Antes que este componente possa ser excluído, você deve associar todos os arquivos de Submissão de Trabalho relacionados com um componente diferente."
+msgstr "Antes que este componente possa ser excluído, você deve associar todos os arquivos de submissão relacionados com um componente diferente."
 
 msgid "manager.publication.submissionStage"
-msgstr "Submissão de Trabalho"
+msgstr "submissão"
 
 msgid "manager.language.submissions"
-msgstr "Submissões de Trabalhos"
+msgstr "Submissões"
 
 msgid "manager.representative.inUse"
-msgstr "Você não pode excluir este representante porque ele está atribuído aos metadados de mercado para um ou mais formatos de publicação para esta Submissão de Trabalho."
+msgstr "Você não pode excluir este representante porque ele está atribuído aos metadados de mercado para um ou mais formatos de publicação para esta submissão."
 
 msgid "manager.statistics.reports.description"
-msgstr "O sistema gera relatórios que acompanham os detalhes associados ao uso do site e Submissões de Trabalhos durante um determinado período. Os relatórios são gerados em formato CSV, que requer um aplicativo de planilha para visualização."
+msgstr "O sistema gera relatórios que acompanham os detalhes associados ao uso do site e Submissões durante um determinado período. Os relatórios são gerados em formato CSV, que requer um aplicativo de planilha para visualização."
 
 msgid "manager.setup.copyrightNotice.description"
-msgstr "Exigir que os autores concordem com o seguinte aviso de direitos autorais como parte do processo de Submissão de Trabalho."
+msgstr "Exigir que os autores concordem com o seguinte aviso de direitos autorais como parte do processo de submissão."
 
 msgid "manager.setup.authorGuidelines.description"
-msgstr "As diretrizes recomendadas incluem padrões bibliográficos e de formatação, juntamente com exemplos de formatos de citação comuns a serem usados em Submissões de Trabalhos."
+msgstr "As diretrizes recomendadas incluem padrões bibliográficos e de formatação, juntamente com exemplos de formatos de citação comuns a serem usados em Submissões."
 
 msgid "manager.setup.disableSubmissions"
-msgstr "Desativar Submissões de Trabalhos"
+msgstr "Desativar Submissões"
 
 msgid "manager.setup.notifications"
-msgstr "Notificação de Submissão de Trabalho do Autor"
+msgstr "Notificação de submissão do Autor"
 
 msgid "manager.setup.notifications.description"
-msgstr "Os autores são automaticamente enviados um e-mail confirmando sua Submissão de Trabalho. Você pode ter cópias deste e-mail enviadas para o seguinte:"
+msgstr "Os autores são automaticamente enviados um e-mail confirmando sua submissão. Você pode ter cópias deste e-mail enviadas para o seguinte:"
 
 msgid "manager.setup.peerReview.description"
-msgstr "Descreva a política e os processos de revisão por pares para leitores e autores. Esta descrição geralmente inclui o número de avaliadores normalmente usados na avaliação de uma submissão, os critérios pelos quais os avaliadores são solicitados a julgar Submissões de Trabalhos, o tempo esperado necessário para conduzir as avaliações e os princípios usados para selecionar avaliadores."
+msgstr "Descreva a política e os processos de revisão por pares para leitores e autores. Esta descrição geralmente inclui o número de avaliadores normalmente usados na avaliação de uma submissão, os critérios pelos quais os avaliadores são solicitados a julgar Submissões, o tempo esperado necessário para conduzir as avaliações e os princípios usados para selecionar avaliadores."
 
 msgid "manager.setup.privacyStatement.description"
-msgstr "Esta declaração aparecerá durante o cadastro do usuário, Submissão de Trabalho do autor e na página de Privacidade disponível publicamente. Em algumas jurisdições, você é legalmente obrigado a divulgar como lida com os dados do usuário nesta política de privacidade."
+msgstr "Esta declaração aparecerá durante o cadastro do usuário, submissão do autor e na página de Privacidade disponível publicamente. Em algumas jurisdições, você é legalmente obrigado a divulgar como lida com os dados do usuário nesta política de privacidade."
 
 msgid "manager.sections.form.deactivateSection"
-msgstr "Desativar esta seção e não permitir que novas Submissões de Trabalhos sejam feitas para ela."
+msgstr "Desativar esta seção e não permitir que novas Submissões sejam feitas para ela."
 
 msgid "settings.roles.permitMetadataEdit"
-msgstr "Permitir edição de metadados de Submissão de Trabalho."
+msgstr "Permitir edição de metadados de submissão."
 
 msgid "manager.setup.metadata.submission"
-msgstr "Formulário de Submissão de Trabalho"
+msgstr "Formulário de submissão"
 
 msgid "manager.setup.metadata.coverage.noRequest"
-msgstr "Não solicitar metadados de cobertura do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar metadados de cobertura do autor durante a submissão."
 
 msgid "manager.setup.metadata.coverage.request"
-msgstr "Solicitar que o autor sugira metadados de cobertura durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor sugira metadados de cobertura durante a submissão."
 
 msgid "manager.setup.metadata.coverage.require"
-msgstr "Exigir que o autor sugira metadados de cobertura antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor sugira metadados de cobertura antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.keywords.description"
-msgstr "Palavras-chave são normalmente frases de uma a três palavras usadas para indicar os principais tópicos de uma Submissão de Trabalho."
+msgstr "Palavras-chave são normalmente frases de uma a três palavras usadas para indicar os principais tópicos de uma submissão."
 
 msgid "manager.setup.metadata.keywords.noRequest"
-msgstr "Não solicitar palavras-chave do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar palavras-chave do autor durante a submissão."
 
 msgid "manager.setup.metadata.keywords.request"
-msgstr "Solicitar que o autor sugira palavras-chave durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor sugira palavras-chave durante a submissão."
 
 msgid "manager.setup.metadata.keywords.require"
-msgstr "Exigir que o autor sugira palavras-chave antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor sugira palavras-chave antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.languages.noRequest"
-msgstr "Não solicitar os idiomas da submissão do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar os idiomas da submissão do autor durante a submissão."
 
 msgid "manager.setup.metadata.languages.require"
-msgstr "Exigir que o autor insira os idiomas da submissão antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor insira os idiomas da submissão antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.rights.description"
-msgstr "Quaisquer direitos mantidos sobre a Submissão de Trabalho, que podem incluir Direitos de Propriedade Intelectual (DPI), Direitos Autorais e vários Direitos de Propriedade."
+msgstr "Quaisquer direitos mantidos sobre a submissão, que podem incluir Direitos de Propriedade Intelectual (DPI), Direitos Autorais e vários Direitos de Propriedade."
 
 msgid "manager.setup.metadata.rights.noRequest"
-msgstr "Não solicitar uma divulgação de direitos do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar uma divulgação de direitos do autor durante a submissão."
 
 msgid "manager.setup.metadata.rights.request"
-msgstr "Solicitar que o autor divulgue quaisquer direitos de acesso anteriores durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor divulgue quaisquer direitos de acesso anteriores durante a submissão."
 
 msgid "manager.setup.metadata.rights.require"
-msgstr "Exigir que o autor divulgue quaisquer direitos de acesso anteriores antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor divulgue quaisquer direitos de acesso anteriores antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.source.description"
-msgstr "A fonte pode ser um ID, como um DOI, de outro trabalho ou recurso do qual a Submissão de Trabalho é derivada."
+msgstr "A fonte pode ser um ID, como um DOI, de outro trabalho ou recurso do qual a submissão é derivada."
 
 msgid "manager.setup.metadata.source.noRequest"
-msgstr "Não solicitar um URL de fonte do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar um URL de fonte do autor durante a submissão."
 
 msgid "manager.setup.metadata.source.request"
-msgstr "Solicitar que o autor forneça um URL de fonte durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor forneça um URL de fonte durante a submissão."
 
 msgid "manager.setup.metadata.source.require"
-msgstr "Exigir que o autor forneça um URL de fonte antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor forneça um URL de fonte antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.subjects.description"
-msgstr "Assuntos serão palavras-chave, frases-chave ou códigos de classificação que descrevem um tópico da Submissão de Trabalho."
+msgstr "Assuntos serão palavras-chave, frases-chave ou códigos de classificação que descrevem um tópico da submissão."
 
 msgid "manager.setup.metadata.subjects.noRequest"
-msgstr "Não solicitar assuntos do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar assuntos do autor durante a submissão."
 
 msgid "manager.setup.metadata.subjects.request"
-msgstr "Solicitar que o autor forneça assuntos durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor forneça assuntos durante a submissão."
 
 msgid "manager.setup.metadata.subjects.require"
-msgstr "Exigir que o autor forneça assuntos antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor forneça assuntos antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.type.description"
-msgstr "A natureza ou gênero do conteúdo principal da Submissão de Trabalho. O tipo é geralmente \"Texto\", mas também pode ser \"Conjunto de Dados\", \"Imagem\" ou qualquer um dos <a target=\"_blank\" href=\"http://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary\">tipos Dublin Core</a>."
+msgstr "A natureza ou gênero do conteúdo principal da submissão. O tipo é geralmente \"Texto\", mas também pode ser \"Conjunto de Dados\", \"Imagem\" ou qualquer um dos <a target=\"_blank\" href=\"http://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary\">tipos Dublin Core</a>."
 
 msgid "manager.setup.metadata.type.noRequest"
-msgstr "Não solicitar o tipo do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar o tipo do autor durante a submissão."
 
 msgid "manager.setup.metadata.type.request"
-msgstr "Solicitar que o autor forneça o tipo durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor forneça o tipo durante a submissão."
 
 msgid "manager.setup.metadata.type.require"
-msgstr "Exigir que o autor forneça o tipo antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor forneça o tipo antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.disciplines.noRequest"
-msgstr "Não solicitar disciplinas do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar disciplinas do autor durante a submissão."
 
 msgid "manager.setup.metadata.disciplines.request"
-msgstr "Solicitar que o autor forneça disciplinas durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor forneça disciplinas durante a submissão."
 
 msgid "manager.setup.metadata.disciplines.require"
-msgstr "Exigir que o autor forneça disciplinas antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor forneça disciplinas antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.agencies.noRequest"
-msgstr "Não solicitar agências de apoio do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar agências de apoio do autor durante a submissão."
 
 msgid "manager.setup.metadata.agencies.request"
-msgstr "Solicitar que o autor divulgue quaisquer agências de apoio durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor divulgue quaisquer agências de apoio durante a submissão."
 
 msgid "manager.setup.metadata.agencies.require"
-msgstr "Exigir que o autor divulgue quaisquer agências de apoio antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor divulgue quaisquer agências de apoio antes de aceitar sua submissão."
 
 msgid "manager.setup.metadata.citations.description"
-msgstr "Coletar referências de uma Submissão de Trabalho em um campo separado. Isso pode ser necessário para cumprir serviços de rastreamento de citações como o Crossref."
+msgstr "Coletar referências de uma submissão em um campo separado. Isso pode ser necessário para cumprir serviços de rastreamento de citações como o Crossref."
 
 msgid "manager.setup.metadata.citations.noRequest"
-msgstr "Não solicitar referências do autor durante a Submissão de Trabalho."
+msgstr "Não solicitar referências do autor durante a submissão."
 
 msgid "manager.setup.metadata.citations.request"
-msgstr "Solicitar que o autor forneça referências durante a Submissão de Trabalho."
+msgstr "Solicitar que o autor forneça referências durante a submissão."
 
 msgid "manager.setup.metadata.citations.require"
-msgstr "Exigir que o autor forneça referências antes de aceitar sua Submissão de Trabalho."
+msgstr "Exigir que o autor forneça referências antes de aceitar sua submissão."
 
 msgid "plugins.importexport.common.error.missingGivenName"
-msgstr "O autor {$authorName} não tem um prenome no idioma da submissão, {$localeName}. A Submissão de Trabalho não pode ser importada sem esta informação."
+msgstr "O autor {$authorName} não tem um prenome no idioma da submissão, {$localeName}. A submissão não pode ser importada sem esta informação."
 
 msgid "plugins.importexport.common.error.duplicateRevisionForSubmission"
-msgstr "A revisão \"{$revisionId}\" para o arquivo de Submissão de Trabalho \"{$fileId}\" criaria um registro duplicado"
+msgstr "A revisão \"{$revisionId}\" para o arquivo de submissão \"{$fileId}\" criaria um registro duplicado"
 
 msgid "plugins.importexport.native.error.submissionFileImportFailed"
-msgstr "O arquivo de Submissão de Trabalho não pôde ser importado"
+msgstr "O arquivo de submissão não pôde ser importado"
 
 msgid "plugins.importexport.native.error.submissionFileSkipped"
-msgstr "O arquivo de Submissão de Trabalho {$id} foi ignorado porque está anexado a um registro que não será importado, como uma atribuição de avaliação ou discussão."
+msgstr "O arquivo de submissão {$id} foi ignorado porque está anexado a um registro que não será importado, como uma atribuição de avaliação ou discussão."
 
 msgid "plugins.importexport.native.error.submissionFileWithoutRevision"
-msgstr "O arquivo de Submissão de Trabalho {$id} foi ignorado porque não tem uma revisão válida."
+msgstr "O arquivo de submissão {$id} foi ignorado porque não tem uma revisão válida."
 
 msgid "plugins.importexport.native.error.submissionFileRevisionMissing"
-msgstr "A revisão {$revision} do arquivo de Submissão de Trabalho {$id} foi ignorada porque o arquivo não foi encontrado no caminho \"{$path}\"."
+msgstr "A revisão {$revision} do arquivo de submissão {$id} foi ignorada porque o arquivo não foi encontrado no caminho \"{$path}\"."
 
 msgid "manager.navigationMenus.form.submenuWarning"
 msgstr "Quando um item de menu abre um submenu, seu link não pode ser seguido em todos os dispositivos. Por exemplo, se você tiver um item \"Sobre\" que abre um submenu com \"Contato\" e \"Equipe Editorial\", o link \"Sobre\" pode não estar acessível em todos os dispositivos. No menu padrão, isso é tratado criando um segundo item de menu, \"Sobre a Coleção de Anais\", que aparece no submenu."
@@ -195,7 +195,7 @@ msgid "manager.navigationMenus.editorialTeam.conditionalWarning"
 msgstr "Este link só será exibido se você tiver preenchido a seção Equipe Editorial em Configurações > Coleção de Anais."
 
 msgid "manager.navigationMenus.submissions.description"
-msgstr "Link para a página exibindo instruções de Submissão de Trabalhos."
+msgstr "Link para a página exibindo instruções de submissãos."
 
 msgid "manager.navigationMenus.current.description"
 msgstr "Link para seu Volume dos Anais atual."
@@ -204,43 +204,43 @@ msgid "manager.navigationMenus.archives.description"
 msgstr "Link para seu arquivo de Volumes dos Anais."
 
 msgid "manager.navigationMenus.privacyStatement.conditionalWarning"
-msgstr "Este link só será exibido se você tiver inserido uma declaração de privacidade em Configurações > Fluxo de Trabalho > Submissões de Trabalhos."
+msgstr "Este link só será exibido se você tiver inserido uma declaração de privacidade em Configurações > Fluxo de Trabalho > Submissões."
 
 msgid "stats.description.acceptRejectRate"
-msgstr "A porcentagem para o intervalo de datas selecionado é calculada para Submissões de Trabalhos que foram submetidas durante este intervalo de datas e receberam uma decisão final.<br><br>"
+msgstr "A porcentagem para o intervalo de datas selecionado é calculada para Submissões que foram submetidas durante este intervalo de datas e receberam uma decisão final.<br><br>"
 
 msgid "stats.description.daysToDecision"
-msgstr "O número de dias que a maioria das Submissões de Trabalhos leva para receber a primeira decisão editorial, como recusa na triagem ou envio para avaliação.<br><br>"
+msgstr "O número de dias que a maioria das Submissões leva para receber a primeira decisão editorial, como recusa na triagem ou envio para avaliação.<br><br>"
 
 msgid "stats.description.submissionsSkipped"
-msgstr "Isso inclui Submissões de Trabalhos que não são contadas em outros totais, como aquelas que ainda estão em andamento e aquelas que parecem ter sido importadas."
+msgstr "Isso inclui Submissões que não são contadas em outros totais, como aquelas que ainda estão em andamento e aquelas que parecem ter sido importadas."
 
 msgid "stats.submissionsActive"
-msgstr "Submissões de Trabalhos Ativas"
+msgstr "Submissões Ativas"
 
 msgid "stats.name.submissionsReceived"
-msgstr "Submissões de Trabalhos Recebidas"
+msgstr "Submissões Recebidas"
 
 msgid "stats.name.submissionsSkipped"
-msgstr "Outras Submissões de Trabalhos"
+msgstr "Outras Submissões"
 
 msgid "stats.name.submissionsInProgress"
-msgstr "Submissões de Trabalhos em Andamento"
+msgstr "Submissões em Andamento"
 
 msgid "stats.name.submissionsImported"
-msgstr "Submissões de Trabalhos Importadas"
+msgstr "Submissões Importadas"
 
 msgid "stats.name.submissionsAccepted"
-msgstr "Submissões de Trabalhos Aceitas"
+msgstr "Submissões Aceitas"
 
 msgid "stats.name.submissionsDeclined"
-msgstr "Submissões de Trabalhos Recusadas"
+msgstr "Submissões Recusadas"
 
 msgid "stats.name.submissionsDeclinedDeskReject"
-msgstr "Submissões de Trabalhos Recusadas (Recusa na Triagem)"
+msgstr "Submissões Recusadas (Recusa na Triagem)"
 
 msgid "stats.name.submissionsDeclinedPostReview"
-msgstr "Submissões de Trabalhos Recusadas (Após Avaliação)"
+msgstr "Submissões Recusadas (Após Avaliação)"
 
 msgid "stats.name.submissionsPublished"
-msgstr "Submissões de Trabalhos Publicadas"
+msgstr "Submissões Publicadas"

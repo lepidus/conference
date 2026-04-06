@@ -12,37 +12,37 @@ msgstr ""
 "Language: pt_BR\n"
 
 msgid "grid.action.requestRevisions"
-msgstr "Solicitar revisões para esta Submissão de Trabalho"
+msgstr "Solicitar revisões para esta submissão"
 
 msgid "grid.action.accept"
-msgstr "Aceitar esta Submissão de Trabalho"
+msgstr "Aceitar esta submissão"
 
 msgid "grid.action.decline"
-msgstr "Recusar esta Submissão de Trabalho"
+msgstr "Recusar esta submissão"
 
 msgid "grid.action.internalReview"
-msgstr "Enviar esta Submissão de Trabalho para avaliação interna"
+msgstr "Enviar esta submissão para avaliação interna"
 
 msgid "grid.action.externalReview"
-msgstr "Enviar esta Submissão de Trabalho para avaliação externa"
+msgstr "Enviar esta submissão para avaliação externa"
 
 msgid "grid.action.sendToProduction"
-msgstr "Enviar esta Submissão de Trabalho para produção"
+msgstr "Enviar esta submissão para produção"
 
 msgid "grid.action.viewMetadata"
-msgstr "Visualizar os metadados desta Submissão de Trabalho"
+msgstr "Visualizar os metadados desta submissão"
 
 msgid "grid.action.bookInfo"
-msgstr "Informações da Submissão de Trabalho"
+msgstr "Informações da submissão"
 
 msgid "grid.libraryFiles.submission.title"
-msgstr "Biblioteca de Submissões de Trabalhos"
+msgstr "Biblioteca de Submissões"
 
 msgid "grid.submissionChecklist.title"
-msgstr "Lista de Verificação de Submissão de Trabalho"
+msgstr "Lista de Verificação de submissão"
 
 msgid "grid.artworkFile.placement"
-msgstr "Posicionamento na Submissão de Trabalho"
+msgstr "Posicionamento na submissão"
 
 msgid "grid.submission.active.selectOrphaned"
-msgstr "Incluir Submissões de Trabalhos incompletas não submetidas por um autor."
+msgstr "Incluir Submissões incompletas não submetidas por um autor."
